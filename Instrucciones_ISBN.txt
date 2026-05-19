@@ -1,0 +1,126 @@
+¡Excelente noticia! El correo de la Agencia del ISBN confirma que tu solicitud ha sido procesada correctamente y ya tienes tu identificador de usuario oficial: **`aejoseignapeinsala01`**.
+
+Utilizando las especificaciones de tu manuscrito final y las reglas de la plataforma recogidas en la guía oficial (`guia_ae_plataformaisbn_v6_r4.pdf`), he preparado el **"chuletario" de datos exactos** que debes introducir en el formulario para que el registro sea aprobado en el primer intento sin retrasos burocráticos.
+
+---
+
+## Paso 1: Activación y Primer Acceso
+
+1. Entra en la web oficial: **`www.agenciaisbn.es`**.
+
+
+2. En el cuadro de la **Plataforma ISBN** (en la zona derecha), introduce tu usuario: **`aejoseignapeinsala01`**.
+
+
+3. Al ser tu primer acceso, el sistema te redirigirá automáticamente a una pantalla para **establecer tu contraseña definitiva** (debe tener entre 6 y 12 caracteres). Anótala bien.
+
+
+4. Ve a la pestaña **Libros** $\rightarrow$ **Altas**. Verás tu número de ISBN asignado con el botón **`[Completar datos]`**. Haz clic en él.
+
+
+
+---
+
+## Paso 2: Guía de Llenado del Formulario Bibliográfico
+
+Introduce los siguientes valores exactos en cada bloque del formulario:
+
+### 1. Identificadores
+
+* 
+**Tipo de edición:** Selecciona **Monografía** (obra cuyo contenido completo se publica de una sola vez en una única unidad física).
+
+
+
+### 2. Título y Subtítulo
+
+* 
+**Título (Obligatorio):** `El Universo Aritmético` *(escríbelo exactamente así, respetando las mayúsculas)*.
+
+
+* 
+**Subtítulo:** `Z/6Z como Sustrato Fundamental de la Ley Física` *(puedes escribir "Z/6Z" en texto plano, ya que los formularios web no renderizan el comando LaTeX $\mathbb{Z}/6\mathbb{Z}$)*.
+
+
+
+### 3. Autorías
+
+* 
+**Nombre:** `José Ignacio` 
+
+
+* 
+**Apellidos:** `Peinador Sala` *(al ser autor español, la guía exige obligatoriamente consignar los dos apellidos sin iniciales)*.
+
+
+* 
+**Tipo (Rol):** Selecciona **Autor**. *(Asegúrate de hacer clic en el botón `[Añadir]` para que la autoría quede fijada en la ficha)*.
+
+
+
+### 4. Idioma y Edición
+
+* 
+**Idioma de publicación:** **Español / Castellano**.
+
+
+* 
+**Número de edición:** `1`.
+
+
+* 
+**Fecha de edición:** Introduce la fecha de este mes (ej. `19` / `05` / `2026`).
+
+
+
+### 5. Materias Thema (Obligatorio)
+
+La plataforma exige usar el sistema internacional *Thema*. Haz clic en **`[Asignar]`** e introduce o busca estos dos códigos para indexar tu obra en los catálogos científicos:
+
+1. 
+**PH:** Física  *(si te despliega subcategorías, puedes elegir Física Teórica)*.
+
+
+2. 
+**PB:** Matemáticas *(puedes afinar buscando Teoría de Números o Álgebra)*.
+
+
+
+### 6. Características Físicas (Obligatorio para formato impreso)
+
+* 
+**Alto (mm):** `240` 
+
+
+* 
+**Ancho (mm):** `170` *(estos valores corresponden exactamente a los 17x24 cm configurados en la geometría de tu archivo `memoir`)*.
+
+
+* 
+**Total páginas:** Introduce el **número exacto de páginas** que arroje la última compilación de tu PDF (según el manuscrito, estará en torno a las `192` o `198` páginas).
+
+
+* 
+**Formato del producto:** Selecciona **Tapa blanda / Bolsillo** (lo que comercialmente se conoce como rústica, que es el formato económico de tu imprenta).
+
+
+
+### 7. Precio y Tipo de Publicación
+
+* 
+**¿Comercial o No Comercial?:** Si tu intención es colocar el libro a la venta en el circuito comercial (librerías, plataformas online), introduce el precio base y el programa calculará el PVP con el 4% de IVA.
+
+
+* Si es una edición privada sin ánimo de lucro o de distribución estrictamente personal/académica, puedes marcarlo como **"Publicación no comercial"**. *Nota: los libros no comerciales no aparecen en la Base de datos pública de libros editados en España (MECD)*.
+
+
+
+---
+
+## Paso 3: Guardar y Enviar a Registro
+
+Una vez que revises que no queda ningún campo obligatorio vacío, baja hasta el final del formulario, haz clic en **`[Guardar]`** y, si el sistema no te arroja ninguna alerta de error, pulsa el botón **`[Registrar]`**.
+
+Tu solicitud pasará a la sección **Libros** $\rightarrow$ **Pendientes**. Al haber elegido el servicio estándar, la Agencia revisará los datos en un plazo de 3 a 4 días laborables y te enviará un correo notificando que tu certificado PDF con el código de barras ya está disponible para su descarga.
+
+¿Tienes claro si vas a registrar el libro bajo la modalidad "Comercial" con un precio de venta estimado o prefieres marcarlo como "No Comercial" para esta primera tirada de imprenta?
