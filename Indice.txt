@@ -1,0 +1,29 @@
+INDICE DE LA OBRA
+
+INTRODUCCION GENERAL: El Codigo Fuente de la Realidad
+
+PARTE I: FUNDAMENTOS DEL SUSTRATO ARITMETICO
+Capitulo 1: La Crisis del Continuo en la Fisica Moderna
+Capitulo 2: El Anillo Z/6Z y la KO-Dimension 6
+Capitulo 3: Constantes Universales e Impedancia Informacional del Vacio
+Capitulo 4: El Espectro Modular de Pi y el Procesamiento Digital de Senales
+
+PARTE II: TEORIA DE NUMEROS Y EL VACIO CUANTICO
+Capitulo 5: El Hamiltoniano de Riemann y la Correspondencia Zeta
+Capitulo 6: Cribas Ciclotomicas y Funciones L
+Capitulo 7: La Identidad Fundamental y la Funcion Zeta de Dedekind
+
+PARTE III: FENOMENOLOGIA COSMOLOGICA Y DE PARTICULAS
+Capitulo 8: Resolucion de la Tension de Hubble y la Red de Vacios Percolada
+Capitulo 9: La Derivacion de la Constante de Estructura Fina
+Capitulo 10: Confinamiento Modular y Reglas de Suma en Hadrones
+Capitulo 11: Superseleccion Cuantica y Estabilizacion de Fases No Ergodicas
+
+PARTE IV: IMPLICACIONES TECNOLOGICAS Y ONTOLOGICAS
+Capitulo 12: Vulnerabilidades en Criptografia Post-Cuantica y Galois Pruning
+Capitulo 13: Realismo Matematico, Epistemologia y el Futuro de la Fisica
+
+APENDICES
+Apendice A: Demostraciones Matematicas Rigurosas
+Apendice B: El Demostrador Computacional Z/6Z (Codigo Fuente del Laboratorio)
+Apendice C: Glosario de Terminos del Sustrato Modular
