@@ -100,7 +100,8 @@ Si los conceptos teóricos, las demostraciones empíricas o el código fuente de
   isbn      = {XXX-X-XXXX-XXXX-X},
   address   = {Valladolid, España},
   url       = {[https://github.com/NachoPeinador/EL_UNIVERSO_ARITMETICO](https://github.com/NachoPeinador/EL_UNIVERSO_ARITMETICO)}
-}```
+}
+```
 
 ---
 
