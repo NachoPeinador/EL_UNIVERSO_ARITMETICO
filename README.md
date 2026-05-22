@@ -74,19 +74,24 @@ El corpus teórico de *El Universo Aritmético* se divide en cuatro grandes áre
   * ⚡ **[Colab: Dualidad Espectral-Aritmética y Coherencia de Fase](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Dualidad_Espectral_Aritmética_Coherencia_de_Fase.ipynb)**
     * 🛡️ **Validación Formal (Lean 4):** Certificación de que las potencias de los primos se confinan en $\mathcal{C}_1$ y $\mathcal{C}_5$, y demostración formal del colapso simétrico de los Primos de Mersenne exclusivamente en el Canal 1.
     * 🧮 **Validación Empírica (Python):** Verificación computacional de la ruptura de simetría en los primos de Mersenne y la retención de canal, explicando la invulnerabilidad del espectro de Riemann a la decoherencia de fase.
-  * ⚡ **[Colab: Refutación Condicional de Erdős #463](URL_DEL_CUADERNO_ERDOS)** *(Añadido desde nuestra última sesión)*
-    * 🛡️ **Validación Formal (Lean 4):** Certificación axiomática del Lema del Suelo de Varianza Discreta ($X \le X^2$).
-    * 🧮 **Simulación Monte Carlo (Python):** Evaluación del colapso determinista de la supervivencia de candidatos en el entorno de los primoriales $P_k$.
 
 ### III. Física Fundamental, Cosmología y Confinamiento
-*Resolución de las tensiones cosmológicas, derivación de la constante de estructura fina y la regla de confinamiento modular para hadrones exóticos.*
+*Resolución de las tensiones cosmológicas ($H_0$, $S_8$), derivación de la constante de estructura fina y la regla de confinamiento modular para hadrones exóticos.*
 
 * 📖 **Capítulo 7:** Cosmología del Sustrato Modular
-* 📖 **Capítulo 8:** La Constante de Estructura Fina
+* 📖 **Capítulo 8:** La Constante de Estructura Fina ($\alpha^{-1}$)
 * 📖 **Capítulo 9:** Confinamiento Modular y Espectro Hadrónico
-* 🔗 **[Repo: Modular-Substrate-Theory](https://github.com/NachoPeinador/Modular-Substrate-Theory)** | Unificación de la cosmología y la espectroscopía hadrónica.
+
+* 🔗 **[Repo: Modular-Substrate-Theory](https://github.com/NachoPeinador/Modular-Substrate-Theory)** | Unificación geométrica de la cosmología y la espectroscopía hadrónica.
+  * ⚡ **[Colab: Validación Formal de la TSM](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/La_Teoría_del_Sustrato_Modular_(TSM)_Validación_Formal.ipynb)**
+    * 🛡️ **Dualidad Bulk-Frontera (Lean 4):** Certificación axiomática de la factorización topológica exacta del sustrato $\mathbb{Z}/6\mathbb{Z}$.
+    * 🛡️ **Consistencia de Constantes (Lean 4):** Verificación algebraica del acoplamiento estricto entre la impedancia informacional ($R_{\text{fund}}$), la proyección dimensional ($\beta$) y la constante cosmológica ($\kappa_{\text{info}}$).
+    * 🛡️ **Confinamiento Modular (Lean 4):** Demostración en teoría de tipos dependientes de la invariancia *gauge* discreta (Regla de suma cero) que rige la estabilidad de los estados hadrónicos exóticos (Hexaquark $d^*(2380)$ y Tetraquark $T_{cc}^+$).
+
 * 🔗 **[Repo: Arithmetic-Vacuum-Alpha](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha)** | Derivación fenomenológica de la constante de acoplamiento.
-* ⚡ **Experimentos Colab:** Ecuación maestra (precisión extrema) y simulación Monte Carlo contra el efecto *Look-Elsewhere*.
+  * ⚡ **[Colab: Master Validation Audit - The Fine-Structure of the Arithmetic Vacuum](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Master_Validation_alpha.ipynb)**
+    * 🧮 **Convergencia Metrológica (Python/mpmath):** Configuración de un entorno de 100 dígitos de precisión para la evaluación de la Ecuación Maestra de $\alpha^{-1}$ (Partición Holográfica y Torsión Topológica), certificando un residuo de $\approx 1.5 \times 10^{-14}$ frente a CODATA 2022 y descartando artefactos de punto flotante.
+    * 🎲 **Parsimonia Algorítmica y Efecto LEE (Python):** Simulación estocástica de Monte Carlo y análisis de Complejidad de Kolmogorov para refutar matemáticamente el Efecto *Look-Elsewhere* (LEE) y el ajuste de curvas espurio, demostrando que la ecuación reside en un estricto pozo de potencial topológico no perturbativo.
 
 ### IV. Criptografía Post-Cuántica (PQC) y Computación (FTQC)
 *Aplicación de las cribas ciclotómicas para el colapso determinista del espacio de búsqueda en Ring-LWE (ML-KEM) y estabilización de registros cuánticos mediante superselección topológica.*
