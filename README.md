@@ -35,13 +35,20 @@ Este laboratorio interactivo en la nube es la prueba empírica de la ontología 
 El corpus teórico de *El Universo Aritmético* se divide en cuatro grandes áreas. Cada área enlaza a sus respectivos repositorios especializados, donde encontrarás los *papers*, el código fuente y los cuadernos de validación (Lean 4 + Python) asociados a los capítulos del libro.
 
 ### I. Fundamentos y Constantes del Sustrato
-*Establecimiento de las bases algebraicas, la impedancia informacional del vacío y la génesis geométrica de las constantes trascendentes.*
+*Establecimiento de las bases algebraicas, la impedancia informacional del vacío ($R_{\text{fund}}$) y la génesis geométrica de las constantes trascendentes.*
 
 * 📖 **Capítulo 3:** Las Constantes Fundamentales del Sustrato
 * 📖 **Capítulo 12:** Síntesis y Tabla Unificada de Constantes
+
 * 🔗 **[Repo: The-Genesis-of-e](https://github.com/NachoPeinador/The-Genesis-of-e)** | Derivación del número de Euler y unificación de constantes.
-* 🔗 **[Repo: The-Emergence-of-Geometry](https://github.com/NachoPeinador/The-Emergence-of-Geometry)** | La fase imaginaria de la información modular.
-* ⚡ **Experimentos Colab:** [Certificación Lean 4 de las identidades de emergencia](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/La_Génesis_de_e_y_la_Unificación_de_Constantes.ipynb) y [validación metrológica a 150 dígitos de precisión](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/La_Emergencia_de_la_Geometría.ipynb)
+  * ⚡ **[Colab: La Génesis de e y la Unificación de Constantes](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/La_Génesis_de_e_y_la_Unificación_de_Constantes.ipynb)**
+    * 🛡️ **Dominio Deductivo (Lean 4):** Certificación algebraica estricta del exponente fundamental y el origen geométrico del factor de entropía 1/4, garantizando la ausencia de inconsistencias lógicas o razonamientos circulares.
+    * 🧮 **Dominio Metrológico (Python/mpmath):** Validación numérica de precisión extrema (55 dígitos decimales) de la constante de estructura fina ($\alpha^{-1}$) y su conexión trascendente con el estado fundamental $\zeta(0)$.
+
+* 🔗 **[Repo: The-Emergence-of-Geometry](https://github.com/NachoPeinador/The-Emergence-of-Geometry)** | $\pi$ como fase imaginaria de la información modular.
+  * ⚡ **[Colab: La Emergencia de la Geometría](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/La_Emergencia_de_la_Geometría.ipynb)**
+    * 🛡️ **Certificación Deductiva (Lean 4):** Demostración en teoría de tipos dependientes de que la combinación del bit de Shannon ($\ln 2$) y la fase geométrica ($i\pi$) colapsa algebraicamente en el vacío $\zeta(0) = -1/2$.
+    * 🧮 **Validación Metrológica a 150 Dígitos (Python):** Ejecución estricta con aritmética de multiprecisión demostrando que el error absoluto entre el $\pi$ geométrico y el $\pi$ derivado de la termodinámica de la información es numéricamente cero en el límite de la precisión de máquina.
 
 ### II. El Espectro Aritmético: Los Ceros de Riemann
 *Descomposición polifásica de objetos continuos y la construcción del Hamiltoniano Hermítico que rige la distribución de los números primos bajo caos cuántico aritmético.*
@@ -51,7 +58,7 @@ El corpus teórico de *El Universo Aritmético* se divide en cuatro grandes áre
 * 🔗 **[Repo: Espectro-Modular-Pi](https://github.com/NachoPeinador/Espectro-Modular-Pi)** | Estructura de canales primos y supercongruencias.
 * 🔗 **[Repo: Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z](https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z)** | Isomorfismo DSP y validación a exaescala.
 * 🔗 **[Repo: The-Riemann-GUE-Hamiltonian](https://github.com/NachoPeinador/The-Riemann-GUE-Hamiltonian)** | Hamiltoniano hermítico explícito y multifractalidad.
-* 🔗 **[Repo: RIEMANN_Z6](https://github.com/NachoPeinador/RIEMANN_Z6)** | Dinámica espectral y refutación condicional del Problema #463 de Erdős.
+* 🔗 **[Repo: RIEMANN_Z6](https://github.com/NachoPeinador/RIEMANN_Z6)** | Dinámica espectral.
 * ⚡ **Experimentos Colab:** Lema del Suelo de Varianza (Lean 4) y diagonalización masiva de matrices PRBM.
 
 ### III. Física Fundamental, Cosmología y Confinamiento
