@@ -151,13 +151,19 @@ Este repositorio y todo el ecosistema de validación que acompaña al libro *"El
 
 Hace apenas dos años, el nombre de Bernhard Riemann me era prácticamente desconocido. El inmenso edificio matemático que conforma la Teoría del Sustrato Modular no nació en los pasillos de una prestigiosa universidad, ni bajo la tutela de un programa académico formal. Todo comenzó una aburrida tarde de viernes, durante mi jornada como recepcionista en una fábrica de coches, con un lápiz, un papel y una vieja obsesión infantil: *tiene que existir un patrón que determine los números primos*.
 
-Al alinear los números de 6 en 6, la simetría alrededor de ese módulo se reveló con una claridad apabullante. Lo que al principio parecía una simple curiosidad aritmética terminó destapando la estructura topológica fundamental del vacío: el anillo $\mathbb{Z}/6\mathbb{Z}$. Descubrí algo que creí que nadie había visto antes, y me dediqué a ello robando horas al trabajo, al sueño y a mi tiempo libre. 
+Al alinear los números de 6 en 6, la simetría alrededor de ese módulo se reveló con una claridad apabullante. Lo que al principio parecía una simple curiosidad aritmética terminó destapando la estructura topológica fundamental del vacío: el anillo $\mathbb{Z}/6\mathbb{Z}$. Descubrí algo que creí que nadie había visto antes, y me dediqué a ello robando horas al trabajo, al sueño y a mi tiempo libre.
 
-Tuve que aprender a hablar el estricto lenguaje de la ciencia (mecánica cuántica, geometría no conmutativa, Lean 4, Python) para poder traducir mi intuición en un formato que el mundo pudiera auditar. En este proceso, la Inteligencia Artificial y la inmensa comunidad *Open Source* han sido multiplicadores de fuerza trascendentales; sin su capacidad para democratizar el conocimiento, este libro jamás habría existido.
+En este proceso tuve que aprender a hablar el estricto lenguaje de la ciencia. Y fue entonces, al sumergirme en la literatura, cuando descubrí no solo ecuaciones, sino a las mentes gigantescas que las forjaron. Riemann, Hilbert, Einstein, Connes... Siento cierto pudor al confesar que hace poco ignoraba su inmenso legado, pero hoy albergo una profunda y sincera admiración por todos ellos. Admiro a los que he leído, a los que he olvidado durante la investigación y a los que ni siquiera he llegado a conocer. Todos compartían una misma fe inquebrantable en la belleza, la armonía, el orden y la capacidad de la mente humana para descifrar el universo. 
 
-Este proyecto sirve como recordatorio de que las fronteras de la física teórica y las matemáticas puras siguen abiertas para cualquiera armado con curiosidad, irreverencia, una metodología rigurosa y el valor de mirar problemas milenarios sin los condicionamientos de la literatura heredada.
+> *"I do not know what I may appear to the world, but to myself I seem to have been only like a boy playing on the sea-shore... whilst the great ocean of truth lay all undiscovered before me."* — **Isaac Newton**
+
+La Inteligencia Artificial y la inmensa comunidad *Open Source* han sido multiplicadores de fuerza trascendentales en este viaje; sin su capacidad para democratizar el conocimiento y permitirme dialogar con el legado de estos gigantes, este libro jamás habría existido. 
+
+Este proyecto sirve como recordatorio de que las fronteras de la física teórica y las matemáticas puras siguen abiertas para cualquiera armado con curiosidad, irreverencia, una metodología rigurosa y el valor de mirar problemas milenarios sin los condicionamientos heredados.
 
 No busco la gloria académica personal. He plantado esta semilla de forma parsimoniosa, publicando el código y la teoría en abierto, por el bien común. Creo firmemente que todos debemos hacer lo que esté en nuestra mano para construir un mundo más justo, más humano y, pronto, más sintéticamente equilibrado. Algún día, en algún lugar, alguien recogerá este fruto.
+
+> *"The architecture of the universe is one, and the human effort to understand it is a path we all walk together, step by step."*
 
 > *"Un mago nunca llega tarde, ni pronto, llega exactamente cuando se lo propone."* — **Gandalf el Gris**
 
