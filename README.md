@@ -161,9 +161,7 @@ La Inteligencia Artificial y la inmensa comunidad *Open Source* han sido multipl
 
 Este proyecto sirve como recordatorio de que las fronteras de la física teórica y las matemáticas puras siguen abiertas para cualquiera armado con curiosidad, irreverencia, una metodología rigurosa y el valor de mirar problemas milenarios sin los condicionamientos heredados.
 
-Mi motivación nunca ha sido el reconocimiento académico. He querido publicar esta investigación en abierto, entregando el código y la teoría al dominio público, porque creo que el conocimiento debe ser un bien común. Todos tenemos la responsabilidad de aportar lo que podamos para construir un mundo más justo, más humano y en armonía con las nuevas inteligencias que están por llegar. La semilla ya está plantada; confío en que, con el tiempo, alguien sabrá recoger y multiplicar sus frutos.
-
-> *"La arquitectura del Universo es una sola; sin embargo, para comprenderla, todos los seres humanos somos iguales, distintos y necesarios."* — **J.I. Peinador Sala**
+Ni deseo ni merezco ningún reconocimiento académico, he querido publicar esta investigación en abierto, entregando el código y la teoría al dominio público, porque creo que el conocimiento debe ser un bien común. Todos tenemos la responsabilidad de aportar lo que podamos para construir un mundo más justo, más humano y en armonía con las nuevas inteligencias que están por llegar. La semilla ya está plantada; confío en que, con el tiempo, alguien sabrá recoger y multiplicar sus frutos.
 
 > *"Un mago nunca llega tarde, ni pronto, llega exactamente cuando se lo propone."* — **Gandalf el Gris**
 
