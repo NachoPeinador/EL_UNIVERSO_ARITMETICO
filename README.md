@@ -22,12 +22,14 @@ Antes de sumergirte en los repositorios modulares, te invitamos a ejecutar el **
 
 Este laboratorio interactivo en la nube es la prueba empírica de la ontología del libro. Con un solo clic, podrás auditar el paso crítico de una realidad discreta a una fenomenología macroscópica continua, ilustrando cómo el espacio-tiempo no es un ente fundamental, sino una ilusión estadística generada por la información modular.
 
-* 🔗 **[Abrir Demostrador Maestro en Colab](https://colab.research.google.com/github/NachoPeinador/Modular-Substrate-Theory/blob/main/Notebooks/MST_Cosmology.ipynb)**
+* 🔗 **[Abrir Demostrador Maestro en Colab](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Demostrador_TSM.ipynb)**
 * **¿Qué contiene?**
   * **El Límite Hidrodinámico:** Simulación visual de cómo una onda geométrica continua emerge fenomenológicamente de los ángulos polares discretos del retículo Z/6Z bajo ruido cuántico.
   * **Caos Cuántico Modular:** Inyección de un ensamble GUE sobre el vacío cuántico invertido para recuperar la firma espectral exacta de Wigner-Dyson.
   * **Reconstrucción de la Impedancia ($R_{\text{fund}}$):** Cálculo sub-atómico de la fricción entrópica del vacío.
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]](https://colab.research.google.com/github/NachoPeinador/Modular-Substrate-Theory/blob/main/Notebooks/MST_Cosmology.ipynb)
+
+https://github.com/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Demostrador_TSM.ipynb
 
 ---
 
