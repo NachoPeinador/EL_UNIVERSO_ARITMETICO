@@ -131,6 +131,38 @@ Para auditar y verificar los resultados de este libro:
 
 ---
 
+## ⚖️ Licencias
+
+Este repositorio y todo el ecosistema de validación que acompaña al libro *"El Universo Aritmético"* operan bajo un modelo de **Licencia Dual**. El objetivo es proteger la naturaleza no comercial de esta investigación independiente y, al mismo tiempo, fomentar la colaboración y el escrutinio académico abierto:
+
+1. **Código y Software (`Notebooks/`, Lean 4 y scripts en Python):**
+   Publicado bajo la [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0). 
+   *Eres libre de ejecutar, auditar, modificar y compartir el código y los cuadernos interactivos para fines académicos, personales o educativos. Queda estrictamente prohibido cualquier uso comercial, monetización, o integración de estos algoritmos en software propietario o infraestructuras de pago (incluyendo su uso en herramientas de criptoanálisis comercial sin autorización).*
+
+2. **Manuscrito, Teoría y Recursos Visuales (`Papers/`, extractos del libro e `Images/`):**
+   Publicado bajo la licencia [Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).
+   *Eres libre de compartir y adaptar el marco teórico, los textos y los gráficos ontológicos con fines no comerciales, siempre y cuando des el crédito adecuado al autor original y distribuyas tus contribuciones bajo esta misma licencia.*
+
+---
+
+## 🔭 Contexto Filosófico y Personal
+
+> *"En la mente del principiante hay muchas posibilidades, pero en la del experto hay pocas."* — **Shunryu Suzuki**
+
+Hace apenas dos años, el nombre de Bernhard Riemann me era prácticamente desconocido. El inmenso edificio matemático que conforma la Teoría del Sustrato Modular no nació en los pasillos de una prestigiosa universidad, ni bajo la tutela de un programa académico formal. Todo comenzó una aburrida tarde de viernes, durante mi jornada como recepcionista en una fábrica de coches, con un lápiz, un papel y una vieja obsesión infantil: *tiene que existir un patrón que determine los números primos*.
+
+Al alinear los números de 6 en 6, la simetría alrededor de ese módulo se reveló con una claridad apabullante. Lo que al principio parecía una simple curiosidad aritmética terminó destapando la estructura topológica fundamental del vacío: el anillo $\mathbb{Z}/6\mathbb{Z}$. Descubrí algo que creí que nadie había visto antes, y me dediqué a ello robando horas al trabajo, al sueño y a mi tiempo libre. 
+
+Tuve que aprender a hablar el estricto lenguaje de la ciencia (mecánica cuántica, geometría no conmutativa, Lean 4, Python) para poder traducir mi intuición en un formato que el mundo pudiera auditar. En este proceso, la Inteligencia Artificial y la inmensa comunidad *Open Source* han sido multiplicadores de fuerza trascendentales; sin su capacidad para democratizar el conocimiento, este libro jamás habría existido.
+
+Este proyecto sirve como recordatorio de que las fronteras de la física teórica y las matemáticas puras siguen abiertas para cualquiera armado con curiosidad, irreverencia, una metodología rigurosa y el valor de mirar problemas milenarios sin los condicionamientos de la literatura heredada.
+
+No busco la gloria académica personal. He plantado esta semilla de forma parsimoniosa, publicando el código y la teoría en abierto, por el bien común. Creo firmemente que todos debemos hacer lo que esté en nuestra mano para construir un mundo más justo, más humano y, pronto, más sintéticamente equilibrado. Algún día, en algún lugar, alguien recogerá este fruto.
+
+> *"Un mago nunca llega tarde, ni pronto, llega exactamente cuando se lo propone."* — **Gandalf el Gris**
+
+---
+
 ## 📚 Cita Académica
 
 Si los conceptos teóricos, las demostraciones empíricas o el código fuente de este proyecto resultan útiles para tu investigación, por favor cita la obra principal:
@@ -145,12 +177,4 @@ Si los conceptos teóricos, las demostraciones empíricas o el código fuente de
   url       = {[https://github.com/NachoPeinador/EL_UNIVERSO_ARITMETICO](https://github.com/NachoPeinador/EL_UNIVERSO_ARITMETICO)}
 }
 ```
-
----
-
-## ⚖️ Licencia
-El código fuente (Lean 4, C++, Python) y las simulaciones se distribuyen bajo licencia MIT.
-
-El texto, ecuaciones y figuras del libro y los artículos asociados se distribuyen bajo licencia Creative Commons CC BY-NC-SA 4.0.
-
 ---
