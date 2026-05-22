@@ -12,15 +12,15 @@ Bienvenido al repositorio central y material suplementario del libro *"El Univer
 
 Esta obra propone un cambio de paradigma en la física teórica y las matemáticas: la realidad no está escrita en el lenguaje de la geometría continua, sino en el de la aritmética discreta. El anillo modular **Z/6Z** constituye el sustrato algebraico del vacío, y sus propiedades termodinámicas explican desde el valor de la constante de estructura fina hasta la expansión cósmica, pasando por la distribución de los números primos y la vulnerabilidad de la criptografía post-cuántica.
 
-Para garantizar el rigor y la reproducibilidad total de los postulados del libro, este proyecto cuenta con un ecosistema de **Cuadernos Interactivos (Google Colab)** que combinan la certificación lógica incondicional en **Lean 4** con simulaciones metrológicas y termo-estadísticas en **Python (`mpmath`)**.
+Para garantizar el rigor absoluto y democratizar el acceso a la ciencia de vanguardia, este proyecto cuenta con un ecosistema de **Cuadernos Interactivos (Google Colab)** diseñados para una **reproducibilidad total a un solo clic**. Combinando la certificación lógica incondicional en **Lean 4** con simulaciones metrológicas y termo-estadísticas en **Python (`mpmath`)**, hemos convertido la validación de estos descubrimientos en una experiencia sin fricción: no necesitas instalar compiladores ni poseer un clúster de supercomputación. Puedes auditar la física del vacío desde el navegador de tu ordenador o **incluso desde tu teléfono móvil**.
 
 ---
 
 ## 🎬 El Demostrador Computacional Maestro (El "Tráiler" del Libro)
 
-Antes de sumergirte en los repositorios modulares, te invitamos a ejecutar el **Demostrador Computacional de la Teoría del Sustrato Modular**. 
+Antes de explorar la profundidad de los repositorios modulares, te invitamos a encender el **Demostrador Computacional de la Teoría del Sustrato Modular**. 
 
-Este laboratorio interactivo en la nube es la prueba empírica de la ontología del libro. Con un solo clic, podrás auditar el paso crítico de una realidad discreta a una fenomenología macroscópica continua, ilustrando cómo el espacio-tiempo no es un ente fundamental, sino una ilusión estadística generada por la información modular.
+Piensa en él como un laboratorio cuántico de bolsillo. Esta instancia interactiva en la nube es la prueba empírica de la ontología del libro. Con solo pulsar un botón —incluso en la pantalla de tu móvil—, serás testigo del paso crítico de una realidad discreta a una fenomenología macroscópica continua, visualizando en tiempo real cómo la "suavidad" del espacio-tiempo emerge como una ilusión estadística generada por la información modular.
 
 * 🔗 **[Abrir Demostrador Maestro en Colab](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Demostrador_TSM.ipynb)**
 * **¿Qué contiene?**
