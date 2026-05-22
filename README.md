@@ -76,7 +76,7 @@ El corpus teórico de *El Universo Aritmético* se divide en cuatro grandes áre
     * 🧮 **Validación Empírica (Python):** Verificación computacional de la ruptura de simetría en los primos de Mersenne y la retención de canal, explicando la invulnerabilidad del espectro de Riemann a la decoherencia de fase.
 
 ### III. Física Fundamental, Cosmología y Confinamiento
-*Resolución de las tensiones cosmológicas ($H_0$, $S_8$), derivación de la constante de estructura fina y la regla de confinamiento modular para hadrones exóticos.*
+*Resolución de las tensiones cosmológicas $H_0$, $S_8$, derivación de la constante de estructura fina y la regla de confinamiento modular para hadrones exóticos.*
 
 * 📖 **Capítulo 7:** Cosmología del Sustrato Modular
 * 📖 **Capítulo 8:** La Constante de Estructura Fina ($\alpha^{-1}$)
