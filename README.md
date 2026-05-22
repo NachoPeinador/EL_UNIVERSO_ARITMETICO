@@ -4,9 +4,10 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Lean 4 Validated](https://img.shields.io/badge/Lean%204-Validated-success.svg)](https://leanprover.github.io/)
 [![Python 3.12](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--1822--3452-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-1822-3452)
 
 **Autor:** José Ignacio Peinador Sala  
-**ISBN:** [Inserta aquí tu ISBN] | **Depósito Legal:** [Inserta aquí tu DL]
+**ISBN:** 978-84-09-87158-2 | **Depósito Legal:** VA-XXX-2026 [En tramitación]
 
 Bienvenido al repositorio central y material suplementario del libro *"El Universo Aritmético"*. 
 
