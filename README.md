@@ -119,12 +119,15 @@ Resolución de las tensiones cosmológicas $H_0$ y $S_8$, derivación de la cons
 
 ## 🚀 Cómo ejecutar los Cuadernos de Validación
 
-Cada repositorio enlazado arriba contiene sus propios cuadernos de Google Colab listos para ser ejecutados en la nube sin necesidad de instalación local. 
+La ejecución de los experimentos y certificaciones se ha diseñado para ser lo más accesible posible: **puedes iniciarlos con un solo clic directamente desde el índice superior**. 
 
-Para verificar los resultados de este libro:
-1. Navega al repositorio del capítulo que desees auditar.
-2. Abre el archivo `.ipynb` correspondiente y haz clic en el botón **"Open in Colab"**.
-3. Ejecuta las celdas en orden. Los entornos instalan automáticamente el compilador **Lean 4** (a través de `elan`) para certificar teoremas y librerías de alto rendimiento en **Python** para cálculos metrológicos.
+Para auditar y verificar los resultados de este libro:
+
+1. Haz clic en cualquiera de los enlaces **⚡ [Colab: ...]** listados en las secciones anteriores.
+2. Google Colab creará automáticamente una instancia segura en la nube con una copia del cuaderno original alojado en el repositorio. No necesitas instalar nada localmente.
+3. Ejecuta las celdas en orden. El propio cuaderno se encargará de inicializar el entorno, instalando el compilador **Lean 4** (a través de `elan`) para certificar de forma axiomática los teoremas, y configurando las librerías de multiprecisión y alto rendimiento en **Python** (`mpmath`, `numba`) para los cálculos metrológicos.
+
+> **Nota:** Aunque puedes ejecutar todas las pruebas desde aquí, te invitamos a navegar por los repositorios individuales (enlaces 🔗). En ellos encontrarás los artículos completos (*papers*), el código fuente detallado y experimentos complementarios que expanden el marco teórico de cada capítulo.
 
 ---
 
