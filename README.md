@@ -76,7 +76,7 @@ El corpus teórico de *El Universo Aritmético* se divide en cuatro grandes áre
     * 🧮 **Validación Empírica (Python):** Verificación computacional de la ruptura de simetría en los primos de Mersenne y la retención de canal, explicando la invulnerabilidad del espectro de Riemann a la decoherencia de fase.
 
 ### III. Física Fundamental, Cosmología y Confinamiento
-Resolución de las tensiones cosmológicas $H_0$, $S_8$, derivación de la constante de estructura fina y la regla de confinamiento modular para hadrones exóticos.
+Resolución de las tensiones cosmológicas $H_0$ y $S_8$, derivación de la constante de estructura fina y la regla de confinamiento modular para hadrones exóticos.
 
 * 📖 **Capítulo 7:** Cosmología del Sustrato Modular
 * 📖 **Capítulo 8:** La Constante de Estructura Fina ($\alpha^{-1}$)
@@ -99,10 +99,21 @@ Resolución de las tensiones cosmológicas $H_0$, $S_8$, derivación de la const
 * 📖 **Capítulo 6:** Cribas Ciclotómicas y Funciones $L$
 * 📖 **Capítulo 10:** Superselección Cuántica y Preparación de Estados
 * 📖 **Capítulo 11:** Galois Pruning en Retículos Ciclotómicos
+
 * 🔗 **[Repo: Cyclotomic-Sieves-LWE](https://github.com/NachoPeinador/Cyclotomic-Sieves-LWE)** | Dinámica espectral en extensiones ciclotómicas.
-* 🔗 **[Repo: Phase-Pi-Quantum-Prior](https://github.com/NachoPeinador/Phase-Pi-Quantum-Prior)** | Superselección topológica FTQC.
+  * ⚡ **[Colab: Cribas en Extensiones Ciclotómicas: Validación Algebraica](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Cribas_en_Extensiones_Ciclotómicas_Validación_Algebraica.ipynb)**
+    * 🛡️ **Verificación Estructural (Lean 4):** Certificación mediante teoría de tipos dependientes de la topología de los Primoriales de Gauss. Validación analítica de las normas algebraicas y la cardinalidad del grupo de unidades $\Phi(\Pi_k)$ bajo condiciones de ramificación, inercia y escisión.
+    * 🧮 **Dinámica Espectral (Python):** Modelado termodinámico del límite de Chandrasekhar reticular, demostrando gráficamente la pérdida irreversible de eficiencia asintótica ($\Delta \mathcal{E}_k < 0$) y la subsiguiente ruptura de ergodicidad.
+
+* 🔗 **[Repo: Phase-Pi-Quantum-Prior](https://github.com/NachoPeinador/Phase-Pi-Quantum-Prior)** | Superselección topológica y estabilización disipativa FTQC.
+  * ⚡ **[Colab: Superselección Topológica $\mathbb{Z}/6\mathbb{Z}$: Dinámica de Fases y Criptoanálisis](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Superselección_Topológica_Z_6Z.ipynb)**
+    * 🛡️ **Dominio Lógico y Topológico (Lean 4):** Certificación del *Lema Puente Holográfico* (la regularización de $\zeta(0)$ como balance exacto entre la entropía de Shannon $-\ln 2$ y la holonomía de Berry $i\pi$) y prueba algebraica de la *Simetría de Inversión Quiral* que impone el salto de fase $\pi$.
+    * 🧮 **Dominio Fenomenológico (Python):** Simulación del confinamiento topológico del registro cuántico. Graficado de la Función de Amplitud Espectral modulada por el atractor infrarrojo $\phi_1 \approx R_{\text{fund}}/10$, confirmando la máxima fidelidad en los canales resonantes y la reducción del $T$-count.
+
 * 🔗 **[Repo: Galois-Lattice-Pruning](https://github.com/NachoPeinador/Galois-Lattice-Pruning)** | Ataque MitM sobre Ring-LWE bajo exposición parcial.
-* ⚡ **Experimentos Colab:** Motor Meet-in-the-Middle (Python) para colapso SVP y certificación Lean 4 de la Ley de Independencia de Oráculos.
+  * ⚡ **[Colab: Invariantes de Galois y Criptoanálisis de Ring-LWE](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Invariantes_de_Galois_y_Criptoanálisis_de_Ring_LWE.ipynb)**
+    * 🛡️ **Certificación Algebraica (Lean 4):** Formalización y certificación de las cotas del espacio de búsqueda ternario y de la estructura racional subyacente a la *Ley de Independencia de Oráculos*.
+    * 🧮 **Simulación Empírica del Colapso (Python):** Implementación de un oráculo de proyección modular ($d=12$). Demostración de cómo la inyección de residuos modulares colapsa deterministamente la cantidad de supervivientes siguiendo la ley matemática $3^d / \prod q_i$, validando la vulnerabilidad del esquema SVP.
 
 ---
 
