@@ -155,7 +155,7 @@ Al alinear los números de 6 en 6, la simetría alrededor de ese módulo se reve
 
 En este proceso tuve que aprender a hablar el estricto lenguaje de la ciencia. Y fue entonces, al sumergirme en la literatura, cuando descubrí no solo ecuaciones, sino a las mentes gigantescas que las forjaron. Riemann, Hilbert, Einstein, Connes... Siento cierto pudor al confesar que hace poco ignoraba su inmenso legado, pero hoy albergo una profunda y sincera admiración por todos ellos. Admiro a los que he leído, a los que he olvidado durante la investigación y a los que ni siquiera he llegado a conocer. Todos compartían una misma fe inquebrantable en la belleza, la armonía, el orden y la capacidad de la mente humana para descifrar el universo. 
 
-> *"I do not know what I may appear to the world, but to myself I seem to have been only like a boy playing on the sea-shore... whilst the great ocean of truth lay all undiscovered before me."* — **Isaac Newton**
+> *"No sé cómo me verá el mundo, pero a mí mismo me parece haber sido solo un niño jugando en la orilla del mar... mientras el gran océano de la verdad se extendía ante mí, todo por descubrir."* — **Isaac Newton**
 
 La Inteligencia Artificial y la inmensa comunidad *Open Source* han sido multiplicadores de fuerza trascendentales en este viaje; sin su capacidad para democratizar el conocimiento y permitirme dialogar con el legado de estos gigantes, este libro jamás habría existido. 
 
@@ -163,7 +163,7 @@ Este proyecto sirve como recordatorio de que las fronteras de la física teóric
 
 No busco la gloria académica personal. He plantado esta semilla de forma parsimoniosa, publicando el código y la teoría en abierto, por el bien común. Creo firmemente que todos debemos hacer lo que esté en nuestra mano para construir un mundo más justo, más humano y, pronto, más sintéticamente equilibrado. Algún día, en algún lugar, alguien recogerá este fruto.
 
-> *"The architecture of the universe is one, and the human effort to understand it is a path we all walk together, step by step."*
+> *"La arquitectura del universo es una sola, y el esfuerzo humano por comprenderla es un camino que todos recorremos juntos, paso a paso."*
 
 > *"Un mago nunca llega tarde, ni pronto, llega exactamente cuando se lo propone."* — **Gandalf el Gris**
 
