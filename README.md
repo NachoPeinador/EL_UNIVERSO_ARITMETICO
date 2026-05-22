@@ -27,9 +27,6 @@ Este laboratorio interactivo en la nube es la prueba empírica de la ontología 
   * **El Límite Hidrodinámico:** Simulación visual de cómo una onda geométrica continua emerge fenomenológicamente de los ángulos polares discretos del retículo Z/6Z bajo ruido cuántico.
   * **Caos Cuántico Modular:** Inyección de un ensamble GUE sobre el vacío cuántico invertido para recuperar la firma espectral exacta de Wigner-Dyson.
   * **Reconstrucción de la Impedancia ($R_{\text{fund}}$):** Cálculo sub-atómico de la fricción entrópica del vacío.
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]](https://colab.research.google.com/github/NachoPeinador/Modular-Substrate-Theory/blob/main/Notebooks/MST_Cosmology.ipynb)
-
-https://github.com/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Demostrador_TSM.ipynb
 
 ---
 
@@ -44,7 +41,7 @@ El corpus teórico de *El Universo Aritmético* se divide en cuatro grandes áre
 * 📖 **Capítulo 12:** Síntesis y Tabla Unificada de Constantes
 * 🔗 **[Repo: The-Genesis-of-e](https://github.com/NachoPeinador/The-Genesis-of-e)** | Derivación del número de Euler y unificación de constantes.
 * 🔗 **[Repo: The-Emergence-of-Geometry](https://github.com/NachoPeinador/The-Emergence-of-Geometry)** | La fase imaginaria de la información modular.
-* ⚡ **Experimentos Colab:** Certificación Lean 4 de las identidades de emergencia y [validación metrológica a 150 dígitos de precisión](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/La_Emergencia_de_la_Geometría.ipynb)
+* ⚡ **Experimentos Colab:** [Certificación Lean 4 de las identidades de emergencia](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/La_Génesis_de_e_y_la_Unificación_de_Constantes.ipynb) y [validación metrológica a 150 dígitos de precisión](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/La_Emergencia_de_la_Geometría.ipynb)
 
 ### II. El Espectro Aritmético: Los Ceros de Riemann
 *Descomposición polifásica de objetos continuos y la construcción del Hamiltoniano Hermítico que rige la distribución de los números primos bajo caos cuántico aritmético.*
