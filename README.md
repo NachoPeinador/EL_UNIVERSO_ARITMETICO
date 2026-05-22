@@ -50,16 +50,33 @@ El corpus teórico de *El Universo Aritmético* se divide en cuatro grandes áre
     * 🛡️ **Certificación Deductiva (Lean 4):** Demostración en teoría de tipos dependientes de que la combinación del bit de Shannon ($\ln 2$) y la fase geométrica ($i\pi$) colapsa algebraicamente en el vacío $\zeta(0) = -1/2$.
     * 🧮 **Validación Metrológica a 150 Dígitos (Python):** Ejecución estricta con aritmética de multiprecisión demostrando que el error absoluto entre el $\pi$ geométrico y el $\pi$ derivado de la termodinámica de la información es numéricamente cero en el límite de la precisión de máquina.
 
-### II. El Espectro Aritmético: Los Ceros de Riemann
+### II. El Espectro Aritmético: $\pi$ y los Ceros de Riemann
 *Descomposición polifásica de objetos continuos y la construcción del Hamiltoniano Hermítico que rige la distribución de los números primos bajo caos cuántico aritmético.*
 
-* 📖 **Capítulo 4:** El Espectro Modular
+* 📖 **Capítulo 4:** El Espectro Modular de $\pi$
 * 📖 **Capítulo 5:** El Hamiltoniano de Riemann
-* 🔗 **[Repo: Espectro-Modular-Pi](https://github.com/NachoPeinador/Espectro-Modular-Pi)** | Estructura de canales primos y supercongruencias.
+
+* 🔗 **[Repo: Espectro-Modular-Pi](https://github.com/NachoPeinador/Espectro-Modular-Pi)** | De la estructura de canales primos a supercongruencias elípticas.
+  * ⚡ **[Colab: Validación y Dualidad Computacional](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/El_Espectro_Modular_de_π_Validación_y_Dualidad_Computacional.ipynb)**
+    * 🛡️ **Validación Formal (Lean 4):** Demostración rigurosa del *Lema del Filtro de Ruido*. Prueba deductiva de que las clases $\mathcal{C}_0, \mathcal{C}_2, \mathcal{C}_3, \mathcal{C}_4$ módulo 6 son divisibles por 2 o 3, aislando la estructura primaria en los canales $6k \pm 1$.
+    * 🧮 **Matemática Experimental (Python):** Implementación local del algoritmo BBP Spigot para la extracción de dígitos aislados explotando la estructura modular holográfica.
+
 * 🔗 **[Repo: Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z](https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z)** | Isomorfismo DSP y validación a exaescala.
+  * ⚡ **[Colab: Isomorfismo DSP y Arquitectura Stride-6](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/El_Espectro_Modular_de_π_Isomorfismo_DSP_y_Arquitectura_Stride_6.ipynb)**
+    * 🛡️ **Validación Formal (Lean 4):** Certificación matemática de las propiedades algebraicas del anillo $\mathbb{Z}/6\mathbb{Z}$, demostrando la clasificación estricta de los canales modulares en Primos, Compuestos y Divisores de Cero.
+    * 🧮 **Implementación de Referencia (Python):** Prototipo funcional de la *Hoja de Transición Stride-6*, demostrando la mecánica de la "Corrección Crítica de Fase" que habilita el modelo de paralelización *Shared-Nothing*.
+
 * 🔗 **[Repo: The-Riemann-GUE-Hamiltonian](https://github.com/NachoPeinador/The-Riemann-GUE-Hamiltonian)** | Hamiltoniano hermítico explícito y multifractalidad.
-* 🔗 **[Repo: RIEMANN_Z6](https://github.com/NachoPeinador/RIEMANN_Z6)** | Dinámica espectral.
-* ⚡ **Experimentos Colab:** Lema del Suelo de Varianza (Lean 4) y diagonalización masiva de matrices PRBM.
+  * ⚡ **[Colab: Validación Formal del Sustrato Aritmético](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Validación_Formal_del_Sustrato_Aritmético.ipynb)**
+    * 🛡️ **Certificación Topológica (Lean 4):** Demostración asistida por ordenador del Teorema II.1 (todo primo $p > 3$ habita exclusivamente en $\mathcal{C}_1$ y $\mathcal{C}_5$) y certificación del isomorfismo analítico de la Criba Geométrica de Gutzwiller con la máscara modular.
+
+* 🔗 **[Repo: RIEMANN_Z6](https://github.com/NachoPeinador/RIEMANN_Z6)** | Dinámica espectral y coherencia de fase.
+  * ⚡ **[Colab: Dualidad Espectral-Aritmética y Coherencia de Fase](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Dualidad_Espectral_Aritmética_Coherencia_de_Fase.ipynb)**
+    * 🛡️ **Validación Formal (Lean 4):** Certificación de que las potencias de los primos se confinan en $\mathcal{C}_1$ y $\mathcal{C}_5$, y demostración formal del colapso simétrico de los Primos de Mersenne exclusivamente en el Canal 1.
+    * 🧮 **Validación Empírica (Python):** Verificación computacional de la ruptura de simetría en los primos de Mersenne y la retención de canal, explicando la invulnerabilidad del espectro de Riemann a la decoherencia de fase.
+  * ⚡ **[Colab: Refutación Condicional de Erdős #463](URL_DEL_CUADERNO_ERDOS)** *(Añadido desde nuestra última sesión)*
+    * 🛡️ **Validación Formal (Lean 4):** Certificación axiomática del Lema del Suelo de Varianza Discreta ($X \le X^2$).
+    * 🧮 **Simulación Monte Carlo (Python):** Evaluación del colapso determinista de la supervivencia de candidatos en el entorno de los primoriales $P_k$.
 
 ### III. Física Fundamental, Cosmología y Confinamiento
 *Resolución de las tensiones cosmológicas, derivación de la constante de estructura fina y la regla de confinamiento modular para hadrones exóticos.*
