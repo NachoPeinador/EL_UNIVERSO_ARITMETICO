@@ -3,23 +3,25 @@
 \usepackage[T1]{fontenc}
 \usepackage[spanish]{babel}
 \usepackage{lmodern}
+\usepackage{microtype} % Mejora drásticamente la justificación del texto
 \usepackage[papersize={170mm,240mm}, margin=25mm]{geometry}
 \usepackage{hyperref}
-\usepackage{amsmath, amssymb, amsthm, mathtools}
-\usepackage{amssymb}                 % Símbolos matemáticos adicionales
-\usepackage{mathrsfs}                % Fuente script (para H de Hamiltoniano)
-\usepackage{bm}                      % Negrita matemática
-\usepackage{dsfont}                  % Doble pizarra (ℝ, ℕ, ...)
-\usepackage{braket}                  % Notación Dirac <|>, <bra|ket>
-\usepackage{physics}                 % Derivadas, diferenciales, etc.
-\usepackage{physics}
-\usepackage{siunitx}
-\sisetup{uncertainty-mode = separate} % <-- Reemplaza separate-uncertainty=true por esto
+\usepackage{amssymb}
+\usepackage{qrcode} % Paquete mágico para generar el QR nativamente
 
 \begin{document}
-\thispagestyle{empty}
-\noindent
 
+% =========================================================================
+% BLOQUE PARA FORZAR LA PÁGINA 1 EN BLANCO (DERECHA / IMPAR)
+% =========================================================================
+\thispagestyle{empty} % Quita número de página y encabezados en la pág. 1
+\mbox{}               % Caja vacía invisible para que LaTeX no ignore la página
+\clearpage            % Salto de página obligatorio hacia la Página 2
+% =========================================================================
+
+% A partir de aquí entramos en la Página 2 (Izquierda / Par)
+\thispagestyle{empty} % También quitamos el número en la página legal
+\noindent
 \vspace*{\fill} 
 
 \begin{small}
@@ -28,22 +30,29 @@
 
 \vspace{0.6cm}
 
-\noindent © 2026, José Ignacio Peinador Sala \\
+\noindent \copyright{} 2026, José Ignacio Peinador Sala \\
 \noindent Todos los derechos reservados.
 
 \vspace{0.6cm}
 
 \noindent \textbf{Autor:} José Ignacio Peinador Sala \\
+\noindent \textbf{ORCID iD:} \url{https://orcid.org/0009-0008-1822-3452} \\
 \noindent \textbf{Contacto:} joseignacio.peinador@gmail.com
 
 \vspace{1cm}
 
 % --- IDENTIFICADORES LEGALES ---
 \noindent \textbf{ISBN:} 978-84-09-87158-2 \\
-\noindent \textbf{Depósito Legal:} [AQUÍ_TU_DL] \\
-\noindent \textbf{RPI:} [AQUÍ_TU_ASIENTO_RPI] \\
-\noindent \textbf{Material adicional:} 
+\noindent \textbf{Depósito Legal:} VA-XXX-2026 \textit{[En tramitación]} \\
+\noindent \textbf{RPI:} VA-123-2024 \textit{[En tramitación]}
+
+\vspace{0.4cm}
+\noindent \textbf{Material adicional y Repositorio de Validación:}\\ 
 \url{https://github.com/NachoPeinador/EL_UNIVERSO_ARITMETICO}
+
+\vspace{0.2cm}
+% Generación vectorial del QR (1.8cm de alto queda muy elegante)
+\noindent \qrcode[height=1.8cm]{https://github.com/NachoPeinador/EL_UNIVERSO_ARITMETICO}
 
 \vspace{1cm}
 
@@ -57,8 +66,7 @@ Calle Embajadores, 16 \\
 \noindent Impreso en España / \textit{Printed in Spain}
 
 \vspace{1cm}
-
+\sloppy % Evita que el párrafo legal se desborde del margen derecho
 \noindent Queda rigurosamente prohibida, sin la autorización escrita del titular del copyright, bajo las sanciones establecidas en las leyes, la reproducción total o parcial de esta obra por cualquier medio o procedimiento, comprendidos la reprografía y el tratamiento informático.
-
 \end{small}
 \end{document}
