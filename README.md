@@ -7,7 +7,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--1822--3452-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-1822-3452)
 
 **Autor:** José Ignacio Peinador Sala  
-**ISBN:** 978-84-09-87158-2 | **Depósito Legal:** VA-346-2026 [En tramitación]
+**ISBN:** 978-84-09-87158-2 | **Depósito Legal:** VA-346-2026 
 
 Bienvenido al repositorio central y material suplementario del libro *"El Universo Aritmético"*. 
 
