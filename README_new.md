@@ -11,6 +11,20 @@ Para garantizar el rigor absoluto y democratizar el acceso a la ciencia de vangu
 
 ---
 
+## 🎬 El Demostrador Computacional Maestro (El "Tráiler" del Libro)
+Antes de explorar la profundidad de los repositorios modulares, te invitamos a encender el **Demostrador Computacional de la Teoría del Sustrato Modular**.
+
+Piensa en él como un laboratorio cuántico de bolsillo. Esta instancia interactiva en la nube es la prueba empírica de la ontología del libro. Con solo pulsar un botón —incluso en la pantalla de tu móvil—, serás testigo del paso crítico de una realidad discreta a una fenomenología macroscópica continua, visualizando en tiempo real cómo la "suavidad" del espacio-tiempo emerge como una ilusión estadística generada por la información modular.
+
+* 🔗 **[Abrir Demostrador Maestro en Colab](URL_DEL_DEMOSTRADOR_AQUI)**
+
+**¿Qué contiene?**
+* **El Límite Hidrodinámico:** Simulación visual de cómo una onda geométrica continua emerge fenomenológicamente de los ángulos polares discretos del retículo $\mathbb{Z}/6\mathbb{Z}$ bajo ruido cuántico.
+* **Caos Cuántico Modular:** Inyección de un ensamble GUE sobre el vacío cuántico invertido para recuperar la firma espectral exacta de Wigner-Dyson.
+* **Reconstrucción de la Impedancia ($R_{\text{fund}}$):** Cálculo sub-atómico de la fricción entrópica del vacío.
+
+---
+
 ## 🎧 Divulgación, Infografías y Resúmenes de Audio
 Si es tu primer contacto con la Teoría del Sustrato Modular, te invitamos a explorar los materiales multimedia generados para facilitar la inmersión en los conceptos clave de la obra:
 * 🎙️ **Podcast: El universo funciona en base seis:** Un análisis épico y didáctico de la obra definitiva, pasando por el "espejo quiral" y el ensamblaje en Lean 4. *(Enlace al archivo de audio)*
