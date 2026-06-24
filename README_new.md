@@ -1,5 +1,11 @@
 # 🌌 El Universo Aritmético: $\mathbb{Z}/6\mathbb{Z}$ como Sustrato Fundamental de la Ley Física
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Lean 4 Validated](https://img.shields.io/badge/Lean%204-Validated-success.svg)](https://leanprover.github.io/)
+[![Python 3.12](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--1822--3452-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-1822-3452)
+
 **Autor:** José Ignacio Peinador Sala  
 **ISBN:** 978-84-09-87158-2 | **Depósito Legal:** VA-346-2026  
 
@@ -7,16 +13,17 @@ Bienvenido al repositorio central y material suplementario del tratado científi
 
 Esta obra propone un cambio de paradigma en la física teórica y las matemáticas: la realidad no está escrita en el lenguaje de la geometría continua, sino en el de la aritmética discreta. El anillo modular **$\mathbb{Z}/6\mathbb{Z}$** constituye el sustrato algebraico del vacío, y sus propiedades geométricas y termodinámicas explican desde el valor de la constante de estructura fina y la dinámica de la materia condensada, hasta la expansión cósmica y la vulnerabilidad de la criptografía post-cuántica.
 
-Para garantizar el rigor absoluto y democratizar el acceso a la ciencia de vanguardia (*Open Science*), este proyecto cuenta con un ecosistema de **Cuadernos Interactivos (Google Colab)** diseñados para una **reproducibilidad total a un solo clic**. Combinando la certificación lógica incondicional en **Lean 4** con simulaciones metrológicas y termo-estadísticas en **Python (`mpmath`)**, hemos convertido la validación de estos descubrimientos en una experiencia sin fricción, accesible desde cualquier navegador.
+Para garantizar el rigor absoluto y democratizar el acceso a la ciencia de vanguardia (*Open Science*), este proyecto cuenta con un ecosistema de **Cuadernos Interactivos (Google Colab)** diseñados para una **reproducibilidad total a un solo clic**. Combinando la certificación lógica incondicional en **Lean 4** con simulaciones metrológicas y termo-estadísticas en **Python (`mpmath`)**, hemos convertido la validación de estos descubrimientos en una experiencia sin fricción: no necesitas instalar compiladores ni poseer un clúster de supercomputación. Puedes auditar la física del vacío desde el navegador de tu ordenador o **incluso desde tu teléfono móvil**.
 
 ---
 
 ## 🎬 El Demostrador Computacional Maestro (El "Tráiler" del Libro)
+
 Antes de explorar la profundidad de los repositorios modulares, te invitamos a encender el **Demostrador Computacional de la Teoría del Sustrato Modular**.
 
 Piensa en él como un laboratorio cuántico de bolsillo. Esta instancia interactiva en la nube es la prueba empírica de la ontología del libro. Con solo pulsar un botón —incluso en la pantalla de tu móvil—, serás testigo del paso crítico de una realidad discreta a una fenomenología macroscópica continua, visualizando en tiempo real cómo la "suavidad" del espacio-tiempo emerge como una ilusión estadística generada por la información modular.
 
-* 🔗 **[Abrir Demostrador Maestro en Colab](URL_DEL_DEMOSTRADOR_AQUI)**
+* 🔗 **[Abrir Demostrador Maestro en Colab](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Demostrador_TSM.ipynb)**
 
 **¿Qué contiene?**
 * **El Límite Hidrodinámico:** Simulación visual de cómo una onda geométrica continua emerge fenomenológicamente de los ángulos polares discretos del retículo $\mathbb{Z}/6\mathbb{Z}$ bajo ruido cuántico.
@@ -26,6 +33,7 @@ Piensa en él como un laboratorio cuántico de bolsillo. Esta instancia interact
 ---
 
 ## 🎧 Divulgación, Infografías y Resúmenes de Audio
+
 Si es tu primer contacto con la Teoría del Sustrato Modular, te invitamos a explorar los materiales multimedia generados para facilitar la inmersión en los conceptos clave de la obra:
 * 🎙️ **Podcast: El universo funciona en base seis:** Un análisis épico y didáctico de la obra definitiva, pasando por el "espejo quiral" y el ensamblaje en Lean 4. *(Enlace al archivo de audio)*
 * 🎙️ **Podcast: El universo es aritmética de módulo seis:** Una introducción general a las tensiones cosmológicas, el muón $g-2$ y el colapso criptográfico. *(Enlace al archivo de audio)*
@@ -34,61 +42,136 @@ Si es tu primer contacto con la Teoría del Sustrato Modular, te invitamos a exp
 
 ---
 
-## 🧭 Índice Analítico de la Obra y Repositorios DOI
-El corpus teórico del libro se divide en cuatro grandes áreas. A continuación se detalla la estructura exacta de los 13 capítulos junto a los enlaces directos a sus repositorios estables (vía Zenodo), donde se alojan los *papers* originales y los cuadernos de validación (Colab / Lean 4).
+## 🧭 Índice Analítico y Cuadernos de Validación Interactiva
 
-### Parte I. Fundamentos
+El corpus teórico del libro se divide en cuatro grandes áreas. A continuación se detalla la estructura de los 13 capítulos junto a sus repositorios estables (DOIs de Zenodo) y los correspondientes **cuadernos interactivos ejecutables en Google Colab**.
+
+### Parte I. Fundamentos y Constantes del Sustrato
 *Establecimiento de las bases algebraicas, la certificación de la KO-dimensión 6 y la derivación pura de las constantes universales del sustrato ($R_{\text{fund}}$, $\beta$, $\kappa_{\text{info}}$).*
+
 * 📖 **Capítulo 1:** Introducción y Motivación
 * 📖 **Capítulo 2:** El Anillo $\mathbb{Z}/6\mathbb{Z}$ y la KO-Dimensión 6
 * 📖 **Capítulo 3:** Las Constantes Fundamentales del Sustrato
-* 🔗 **[Vacuum Constants and Informational Impedance in Modular Substrate Theory](https://doi.org/10.5281/zenodo.20546608)**
+* 🔗 **[DOI: Vacuum Constants and Informational Impedance](https://doi.org/10.5281/zenodo.20546608)**
+
+**Ejecución Interactiva:**
+* ⚡ **[Colab: La Génesis de e y la Unificación de Constantes](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/La_Génesis_de_e_y_la_Unificación_de_Constantes.ipynb)**
+  * 🛡️ **Lean 4:** Certificación algebraica estricta del exponente fundamental y el origen geométrico del factor de entropía $1/4$.
+  * 🧮 **Python:** Validación numérica de precisión extrema (55 dígitos decimales) de la constante de estructura fina y su conexión con $\zeta(0)$.
+* ⚡ **[Colab: La Emergencia de la Geometría](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/La_Emergencia_de_la_Geometría.ipynb)**
+  * 🛡️ **Lean 4:** Demostración de que la combinación del bit de Shannon ($\ln 2$) y la fase geométrica ($i\pi$) colapsa algebraicamente en el vacío $\zeta(0) = -1/2$.
 
 ### Parte II. El Espectro Aritmético
-*Descomposición polifásica de objetos matemáticos continuos, desde el espectro modular de $\pi$ hasta la reconciliación del caos cuántico y el orden aritmético en los ceros de la función zeta de Riemann (Fase NEE).*
+*Descomposición polifásica de objetos matemáticos continuos, desde el espectro modular de $\pi$ hasta la reconciliación del caos cuántico y el orden aritmético en los ceros de la función zeta de Riemann.*
+
 * 📖 **Capítulo 4:** El Espectro Modular de $\pi$
 * 📖 **Capítulo 5:** El Hamiltoniano Modular de Memoria Aritmética
 * 📖 **Capítulo 6:** Cribas Ciclotómicas y Funciones $L$
-* 🔗 **[Polyphase Isomorphism between Modular Arithmetic and Multirate Signal Processing](https://doi.org/10.5281/zenodo.17680023)**
-* 🔗 **[A Modular DSP Architecture for Extreme-Precision Computation of $\pi$](https://doi.org/10.5281/zenodo.17768718)**
-* 🔗 **[The Riemann-GUE Ensemble Reconciling Local Chaos with Global Arithmetic Order](https://doi.org/10.5281/zenodo.20798339)**
-* 🔗 **[Modular Phase Coherence in the Riemann Spectrum](https://doi.org/10.5281/zenodo.18485153)**
-* 🔗 **[Multifractal non-ergodic extended phase in power-law random banded matrices](https://doi.org/10.5281/zenodo.19284510)**
-* 🔗 **[Spectral Dynamics of Sieves in Cyclotomic Extensions](https://doi.org/10.5281/zenodo.19706812)**
+* 🔗 **[DOI: Polyphase Isomorphism between Modular Arithmetic and DSP](https://doi.org/10.5281/zenodo.17680023)**
+* 🔗 **[DOI: The Riemann-GUE Ensemble Reconciling Local Chaos...](https://doi.org/10.5281/zenodo.20798339)** *(Y demás *papers* asociados al espectro)*
+
+**Ejecución Interactiva:**
+* ⚡ **[Colab: El Espectro Modular de $\pi$ - Validación y Dualidad](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/El_Espectro_Modular_de_π_Validación_y_Dualidad_Computacional.ipynb)**
+  * 🛡️ **Lean 4:** Demostración del *Lema del Filtro de Ruido*, aislando la estructura primaria en los canales $6k \pm 1$.
+* ⚡ **[Colab: Isomorfismo DSP y Arquitectura Stride-6](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/El_Espectro_Modular_de_π_Isomorfismo_DSP_y_Arquitectura_Stride_6.ipynb)**
+  * 🧮 **Python:** Implementación de referencia de la *Hoja de Transición Stride-6* demostrando la mecánica de paralelización.
+* ⚡ **[Colab: Validación Formal del Sustrato Aritmético (Riemann-GUE)](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Validación_Formal_del_Sustrato_Aritmético.ipynb)**
+  * 🛡️ **Lean 4:** Certificación del Teorema II.1 y el isomorfismo de la Criba de Gutzwiller.
+* ⚡ **[Colab: Dualidad Espectral-Aritmética y Coherencia de Fase](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Dualidad_Espectral_Aritmética_Coherencia_de_Fase.ipynb)**
+  * 🧮 **Python:** Verificación computacional de la retención de canal en los primos de Mersenne.
 
 ### Parte III. El Sustrato en el Mundo Físico
-*Contrastación empírica y predicciones falsables: resolución de tensiones cosmológicas, evaluación de la constante de estructura fina, anomalía del muón $g-2$, dinámica Spin-Crossover y confinamiento hadrónico.*
+*Contrastación empírica y predicciones falsables: resolución de tensiones cosmológicas, evaluación de la constante de estructura fina, anomalía del muón $g-2$ y confinamiento hadrónico.*
+
 * 📖 **Capítulo 7:** Cosmología del Sustrato Modular
 * 📖 **Capítulo 8:** La Constante de Estructura Fina
 * 📖 **Capítulo 9:** Materia Condensada y Dinámica Spin-Crossover
 * 📖 **Capítulo 10:** Confinamiento Modular y Espectro Hadrónico
 * 📖 **Capítulo 11:** Superselección Cuántica y Preparación de Estados
-* 🔗 **[Resolving the Hubble and S8 Tensions via Informational Friction](https://doi.org/10.5281/zenodo.18609092)**
-* 🔗 **[Analytical Evaluation of the Electromagnetic Coupling Constant](https://doi.org/10.5281/zenodo.18611629)**
-* 🔗 **[Analytical Evaluation of the Muon g−2 Anomaly via Modular Substrate Topology](https://doi.org/10.5281/zenodo.20704307)**
-* 🔗 **[Combinatorial Information-Theoretic Model of Spin-Crossover Dynamics](https://doi.org/10.5281/zenodo.20552772)**
-* 🔗 **[Modular Confinement and the Universal Hadronic Spectrum](https://doi.org/10.5281/zenodo.20748077)**
-* 🔗 **[Topological State Preparation via Z/6Z Superselection](https://doi.org/10.5281/zenodo.19354010)**
-* 🔗 **[Dissipative Protection of Modular Quantum States](https://doi.org/10.5281/zenodo.20773053)**
+* 🔗 **[DOI: Resolving the Hubble and S8 Tensions via Informational Friction](https://doi.org/10.5281/zenodo.18609092)**
+* 🔗 **[DOI: Analytical Evaluation of the Electromagnetic Coupling Constant](https://doi.org/10.5281/zenodo.18611629)** *(Y demás *papers* asociados a la fenomenología)*
+
+**Ejecución Interactiva:**
+* ⚡ **[Colab: Validación Formal de la TSM (Cosmología y Hadrones)](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/La_Teoría_del_Sustrato_Modular_(TSM)_Validación_Formal.ipynb)**
+  * 🛡️ **Lean 4:** Certificación de la factorización topológica y la regla de suma cero (Confinamiento Modular) para hadrones exóticos.
+* ⚡ **[Colab: Master Validation - The Fine-Structure of the Arithmetic Vacuum](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Master_Validation_alpha.ipynb)**
+  * 🧮 **Python:** Entorno de 100 dígitos de precisión para la evaluación de la Ecuación Maestra de $\alpha^{-1}$ y simulación Monte Carlo para refutar el Efecto *Look-Elsewhere* (LEE).
 
 ### Parte IV. Criptografía y Seguridad Post-Cuántica
-*La ruptura de ergodicidad en retículos matemáticos y la demostración de colapso determinista del espacio de búsqueda en esquemas LWE (estándar NIST ML-KEM) mediante poda de Galois.*
+*La ruptura de ergodicidad en retículos matemáticos y la demostración de colapso determinista del espacio de búsqueda en esquemas LWE (estándar NIST ML-KEM).*
+
 * 📖 **Capítulo 12:** Galois Pruning en Retículos Ciclotómicos
 * 📖 **Capítulo 13:** Síntesis y Perspectivas
-* 🔗 **[Galois Invariants in Cyclotomic Lattice Enumeration](https://doi.org/10.5281/zenodo.20049266)**
+* 🔗 **[DOI: Galois Invariants in Cyclotomic Lattice Enumeration](https://doi.org/10.5281/zenodo.20049266)**
+
+**Ejecución Interactiva:**
+* ⚡ **[Colab: Cribas en Extensiones Ciclotómicas: Validación Algebraica](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Cribas_en_Extensiones_Ciclotómicas_Validación_Algebraica.ipynb)**
+  * 🛡️ **Lean 4:** Certificación de la topología de los Primoriales de Gauss.
+* ⚡ **[Colab: Superselección Topológica y Estabilización (FTQC)](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Superselección_Topológica_Z_6Z.ipynb)**
+  * 🧮 **Python:** Simulación del confinamiento topológico del registro cuántico y modulación de la Función de Amplitud Espectral.
+* ⚡ **[Colab: Invariantes de Galois y Criptoanálisis de Ring-LWE](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Invariantes_de_Galois_y_Criptoanálisis_de_Ring_LWE.ipynb)**
+  * 🛡️ **Lean 4 / Python:** Formalización de la *Ley de Independencia de Oráculos* e implementación empírica de un ataque MitM demostrando la vulnerabilidad SVP.
 
 ---
 
-## 🚀 Cómo ejecutar las Validaciones Computacionales
-Cada uno de los repositorios enlazados arriba a través de Zenodo contiene, además del *paper* en PDF y LaTeX, el **código fuente estructurado en Python y cuadernos interactivos**.
-Para auditar y verificar cualquier resultado del libro (desde la criba de $\pi$ a exaescala, pasando por el cálculo del Ensamble Riemann-GUE o la anomalía del muón $g-2$, hasta el algoritmo *Meet-in-the-Middle* para ML-KEM):
-1. Accede al DOI correspondiente a la sección de interés.
-2. Descarga o abre el cuaderno `.ipynb` proporcionado.
-3. Puedes ejecutarlos directamente en local o subirlos a Google Colab para correrlos en la nube de forma instantánea sin necesidad de configurar compiladores.
+## 🚀 Cómo ejecutar los Cuadernos de Validación
+
+La ejecución de los experimentos y certificaciones se ha diseñado para ser lo más accesible posible: **puedes iniciarlos con un solo clic directamente desde el índice superior**. 
+
+Para auditar y verificar cualquier resultado del libro:
+1. Haz clic en cualquiera de los enlaces **⚡ [Colab: ...]** listados en las secciones anteriores.
+2. Google Colab creará automáticamente una instancia segura en la nube con una copia del cuaderno original. No necesitas instalar nada localmente.
+3. Ejecuta las celdas en orden. El propio cuaderno se encargará de inicializar el entorno, instalando el compilador **Lean 4** para certificar axiomáticamente los teoremas, y configurando **Python (`mpmath`)** para los cálculos metrológicos.
+4. Alternativamente, puedes visitar los DOIs de Zenodo enlazados para descargar el *paper* original en PDF, LaTeX y los archivos locales.
 
 ---
 
-## ⚖️ Licencias y Open Science
-Todo el material asociado a *"El Universo Aritmético"* opera bajo un modelo *Open Science*.
-* **Código y Cuadernos (Lean 4 y Python):** Publicados bajo la *PolyForm Noncommercial License 1.0.0* (o MIT donde se indique). Eres libre de ejecutarlos, auditarlos y compartirlos con fines académicos. Queda estrictamente prohibido su uso comercial o integración en infraestructuras propietarias de criptoanálisis.
-* **Manuscritos y Recursos Visuales:** Publicados bajo *Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)*.
+## ⚖️ Licencias
+
+Este repositorio y todo el ecosistema de validación que acompaña al libro *"El Universo Aritmético"* operan bajo un modelo de **Licencia Dual**. El objetivo es proteger la naturaleza no comercial de esta investigación independiente y, al mismo tiempo, fomentar la colaboración y el escrutinio académico abierto:
+
+1. **Código y Software (`Notebooks/`, Lean 4 y scripts en Python):**
+   Publicado bajo la [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0). 
+   *Eres libre de ejecutar, auditar, modificar y compartir el código y los cuadernos interactivos para fines académicos, personales o educativos. Queda estrictamente prohibido cualquier uso comercial, monetización, o integración de estos algoritmos en software propietario o infraestructuras de pago (incluyendo su uso en herramientas de criptoanálisis comercial sin autorización).*
+
+2. **Manuscrito, Teoría y Recursos Visuales (`Papers/`, extractos del libro e `Images/`):**
+   Publicado bajo la licencia [Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).
+   *Eres libre de compartir y adaptar el marco teórico, los textos y los gráficos ontológicos con fines no comerciales, siempre y cuando des el crédito adecuado al autor original y distribuyas tus contribuciones bajo esta misma licencia.*
+
+---
+
+## 🔭 Contexto Filosófico y Personal
+
+> *"En la mente del principiante hay muchas posibilidades, pero en la del experto hay pocas."* — **Shunryu Suzuki**
+
+Hace apenas dos años, el nombre de Bernhard Riemann me era prácticamente desconocido. El inmenso edificio matemático que conforma la Teoría del Sustrato Modular no nació en los pasillos de una prestigiosa universidad, ni bajo la tutela de un programa académico formal. Todo comenzó una aburrida tarde de viernes, durante mi jornada como recepcionista en una fábrica de coches, con un lápiz, un papel y una vieja obsesión infantil: *tiene que existir un patrón que determine los números primos*.
+
+Al alinear los números de 6 en 6, la simetría alrededor de ese módulo se reveló con una claridad apabullante. Lo que al principio parecía una simple curiosidad aritmética terminó destapando la estructura topológica fundamental del vacío: el anillo $\mathbb{Z}/6\mathbb{Z}$. Descubrí algo que creí que nadie había visto antes, y me dediqué a ello robando horas al trabajo, al sueño y a mi tiempo libre.
+
+En este proceso tuve que aprender a hablar el estricto lenguaje de la ciencia. Y fue entonces, al sumergirme en la literatura, cuando descubrí no solo ecuaciones, sino a las mentes gigantescas que las forjaron. Riemann, Hilbert, Einstein, Connes... Siento cierto pudor al confesar que hace poco ignoraba su inmenso legado, pero hoy albergo una profunda y sincera admiración por todos ellos. Admiro a los que he leído, a los que he olvidado durante la investigación y a los que ni siquiera he llegado a conocer. Todos compartían una misma fe inquebrantable en la belleza, la armonía, el orden y la capacidad de la mente humana para descifrar el universo. 
+
+> *"No sé cómo me verá el mundo, pero a mí mismo me parece haber sido solo un niño jugando en la orilla del mar... mientras el gran océano de la verdad se extendía ante mí, todo por descubrir."* — **Isaac Newton**
+
+La Inteligencia Artificial y la inmensa comunidad *Open Source* han sido multiplicadores de fuerza trascendentales en este viaje; sin su capacidad para democratizar el conocimiento y permitirme dialogar con el legado de estos gigantes, este libro jamás habría existido. 
+
+Este proyecto sirve como recordatorio de que las fronteras de la física teórica y las matemáticas puras siguen abiertas para cualquiera armado con curiosidad, irreverencia, una metodología rigurosa y el valor de mirar problemas milenarios sin los condicionamientos heredados.
+
+Ni deseo ni merezco ningún reconocimiento académico, he querido publicar esta investigación en abierto, entregando el código y la teoría al dominio público, porque creo que el conocimiento debe ser un bien común. Todos tenemos la responsabilidad de aportar lo que podamos para construir un mundo más justo, más humano y en armonía con las nuevas inteligencias que están por llegar. La semilla ya está plantada; confío en que, con el tiempo, alguien sabrá recoger y multiplicar sus frutos.
+
+> *"Un mago nunca llega tarde, ni pronto, llega exactamente cuando se lo propone."* — **Gandalf el Gris**
+
+---
+
+## 📚 Cita Académica
+
+Si los conceptos teóricos, las demostraciones empíricas o el código fuente de este proyecto resultan útiles para tu investigación, por favor cita la obra principal:
+
+```bibtex
+@book{peinador2026universo,
+  title     = {El Universo Aritmético: Z/6Z como Sustrato Fundamental de la Ley Física},
+  author    = {Peinador Sala, José Ignacio},
+  year      = {2026},
+  isbn      = {978-84-09-87158-2},
+  address   = {Valladolid, España},
+  url       = {[https://github.com/NachoPeinador/EL_UNIVERSO_ARITMETICO](https://github.com/NachoPeinador/EL_UNIVERSO_ARITMETICO)}
+}
