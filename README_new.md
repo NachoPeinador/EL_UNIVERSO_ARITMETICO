@@ -47,16 +47,6 @@ Piensa en él como un laboratorio cuántico de bolsillo. Esta instancia interact
 
 ---
 
-## 🎧 Divulgación, Infografías y Resúmenes de Audio
-
-Si es tu primer contacto con la Teoría del Sustrato Modular, te invitamos a explorar los materiales multimedia generados para facilitar la inmersión en los conceptos clave de la obra:
-* 🎙️ **Podcast: El universo funciona en base seis:** Un análisis épico y didáctico de la obra definitiva, pasando por el "espejo quiral" y el ensamblaje en Lean 4. *(Enlace al archivo de audio)*
-* 🎙️ **Podcast: El universo es aritmética de módulo seis:** Una introducción general a las tensiones cosmológicas, el muón $g-2$ y el colapso criptográfico. *(Enlace al archivo de audio)*
-* 🎙️ **Reflexión: La sinfonía aritmética de los números primos:** Una pieza breve y profunda sobre la armonía subyacente al ruido y el Sueño de Riemann. *(Enlace al archivo de audio)*
-* 🗺️ **Infografía: El Andamiaje del Sustrato:** Un mapa conceptual en alta resolución que muestra cómo de la KO-dimensión 6 derivan las constantes $R_{\text{fund}}$, $\beta$ y $\kappa_{\text{info}}$. *(Enlace a la imagen)*
-
----
-
 ## 🧭 Índice Analítico y Cuadernos de Validación Interactiva
 
 El corpus teórico del libro se divide en cuatro grandes áreas. A continuación se detalla la estructura de los 13 capítulos junto a sus repositorios estables (DOIs de Zenodo) y los correspondientes **cuadernos interactivos ejecutables en Google Colab**.
@@ -190,3 +180,14 @@ Si los conceptos teóricos, las demostraciones empíricas o el código fuente de
   address   = {Valladolid, España},
   url       = {[https://github.com/NachoPeinador/EL_UNIVERSO_ARITMETICO](https://github.com/NachoPeinador/EL_UNIVERSO_ARITMETICO)}
 }
+```
+
+---
+
+## 🎧 Divulgación, Infografías y Resúmenes de Audio
+
+Si es tu primer contacto con la Teoría del Sustrato Modular, te invitamos a explorar los materiales multimedia generados para facilitar la inmersión en los conceptos clave de la obra:
+* 🎙️ **Podcast: El universo funciona en base seis:** Un análisis épico y didáctico de la obra definitiva, pasando por el "espejo quiral" y el ensamblaje en Lean 4. *(Enlace al archivo de audio)*
+* 🎙️ **Podcast: El universo es aritmética de módulo seis:** Una introducción general a las tensiones cosmológicas, el muón $g-2$ y el colapso criptográfico. *(Enlace al archivo de audio)*
+* 🎙️ **Reflexión: La sinfonía aritmética de los números primos:** Una pieza breve y profunda sobre la armonía subyacente al ruido y el Sueño de Riemann. *(Enlace al archivo de audio)*
+* 🗺️ **Infografía: El Andamiaje del Sustrato:** Un mapa conceptual en alta resolución que muestra cómo de la KO-dimensión 6 derivan las constantes $R_{\text{fund}}$, $\beta$ y $\kappa_{\text{info}}$. *(Enlace a la imagen)*
