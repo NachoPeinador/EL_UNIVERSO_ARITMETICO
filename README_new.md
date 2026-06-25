@@ -23,7 +23,7 @@ Antes de pasar a las simulaciones empíricas, es fundamental establecer el rigor
 
 Hemos habilitado un cuaderno interactivo dedicado exclusivamente a compilar y verificar los pilares algebraicos de la obra. Al ejecutarlo, el motor lógico de Lean 4 descarta cualquier posibilidad de excepción oculta o error humano en nuestras deducciones.
 
-* 🔗 **[Abrir Certificación Formal en Colab](URL_DEL_CUADERNO_DE_LEAN4_AQUI)**
+* 🔗 **[Abrir Certificación Formal en Colab](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Formal_Verification_in_Lean_4.ipynb)**
 
 **¿Qué certifica este motor aritmético?**
 * **Involución Modular y Simetría Quiral:** Demuestra que la clase de congruencia 5 es su propio inverso multiplicativo y el inverso aditivo de 1 módulo 6. Esto prueba formalmente que el desplazamiento de fase $\phi_2=\pi$ es un requisito topológico estricto del vacío cuántico, no un ajuste empírico.
@@ -52,7 +52,7 @@ Piensa en él como un laboratorio cuántico de bolsillo. Esta instancia interact
 El corpus teórico del libro se divide en cuatro grandes áreas. A continuación se detalla la estructura de los 13 capítulos junto a sus repositorios estables (DOIs de Zenodo) y los correspondientes **cuadernos interactivos ejecutables en Google Colab**.
 
 ### Parte I. Fundamentos y Constantes del Sustrato
-*Establecimiento de las bases algebraicas, la certificación de la KO-dimensión 6 y la derivación pura de las constantes universales del sustrato ($R_{\text{fund}}$, $\beta$, $\kappa_{\text{info}}$).*
+*Establecimiento de las bases algebraicas, la certificación de la KO-dimensión 6 y la derivación pura de las constantes universales del sustrato $R_{\text{fund}}$, $\beta$, $\kappa_{\text{info}}$.*
 
 * 📖 **Capítulo 1:** Introducción y Motivación
 * 📖 **Capítulo 2:** El Anillo $\mathbb{Z}/6\mathbb{Z}$ y la KO-Dimensión 6
