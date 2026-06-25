@@ -52,7 +52,7 @@ Piensa en él como un laboratorio cuántico de bolsillo. Esta instancia interact
 El corpus teórico del libro se divide en cuatro grandes áreas. A continuación se detalla la estructura de los 13 capítulos junto a sus repositorios estables (DOIs de Zenodo) y los correspondientes **cuadernos interactivos ejecutables en Google Colab**.
 
 ### Parte I. Fundamentos y Constantes del Sustrato
-*Establecimiento de las bases algebraicas, la certificación de la KO-dimensión 6 y la derivación pura de las constantes universales del sustrato $R_{\mathrm{fund}}$, $\beta$ y $\kappa_{\mathrm{info}}$.*
+Establecimiento de las bases algebraicas, la certificación de la KO-dimensión 6 y la derivación pura de las constantes universales del sustrato $R_{\mathrm{fund}}$, $\beta$ y $\kappa_{\mathrm{info}}$.
 
 * 📖 **Capítulo 1:** Introducción y Motivación
 * 📖 **Capítulo 2:** El Anillo $\mathbb{Z}/6\mathbb{Z}$ y la KO-Dimensión 6
