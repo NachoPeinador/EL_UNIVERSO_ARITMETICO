@@ -112,8 +112,12 @@ Contrastación empírica y predicciones falsables: resolución de tensiones cosm
 **Ejecución Interactiva:**
 * ⚡ **[Colab: Cribas en Extensiones Ciclotómicas: Validación Algebraica](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Cribas_en_Extensiones_Ciclotómicas_Validación_Algebraica.ipynb)**
   * 🛡️ **Lean 4:** Certificación de la topología de los Primoriales de Gauss.
-* ⚡ **[Colab: Superselección Topológica y Estabilización (FTQC)](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Superselección_Topológica_Z_6Z.ipynb)**
-  * 🧮 **Python:** Simulación del confinamiento topológico del registro cuántico y modulación de la Función de Amplitud Espectral.
+* ⚡ **[Colab: Verificación Formal del Sustrato Algebraico](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Formal_Verification_in_Lean_4.ipynb)**
+  * 🛡️ **Lean 4:** Certificación axiomática de la Involución Modular, el Isomorfismo del Grupo de Unidades y la Clausura Topológica del Autómata Finito (DFA). Demostración deductiva de la estabilidad del *prior* topológico para garantizar la ausencia          total de fugas (*leakages*) en la red tensorial MPDO.
+* ⚡ **[Colab: Optimización Numérica de Fases Cuánticas](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Topological_State_Preparation_via_Z6Z_Superselection.ipynb)**
+  * 🧮 **Python:** Simulación numérica sobre el retículo entero que demuestra que las fases óptimas para el confinamiento de la amplitud colapsan exactamente en $\phi_1=0$ y $\phi_2=\pi$, verificando la invariancia de la función de partición y la dualidad de fidelidad a precisión de máquina.
+* ⚡ **[Colab: Isomorfismo DSP y Arquitectura FTQC](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/DSP_Polyphase_Isomorphism.ipynb)**
+  * 🧮 **Python:** Traslación de la relación de fase geométrica a un marco de Procesamiento Digital de Señales (DSP). Validación empírica de las propiedades críticas para hardware cuántico: la **aislación unitaria** (ortogonalidad estricta de sub-bandas) y la **reconstrucción perfecta** del estado conjugado sin interferencia destructiva.
 * ⚡ **[Colab: Invariantes de Galois y Criptoanálisis de Ring-LWE](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Invariantes_de_Galois_y_Criptoanálisis_de_Ring_LWE.ipynb)**
   * 🛡️ **Lean 4 / Python:** Formalización de la *Ley de Independencia de Oráculos* e implementación empírica de un ataque MitM demostrando la vulnerabilidad SVP.
 
@@ -128,6 +132,7 @@ Para auditar y verificar cualquier resultado del libro:
 2. Google Colab creará automáticamente una instancia segura en la nube con una copia del cuaderno original. No necesitas instalar nada localmente.
 3. Ejecuta las celdas en orden. El propio cuaderno se encargará de inicializar el entorno, instalando el compilador **Lean 4** para certificar axiomáticamente los teoremas, y configurando **Python (`mpmath`)** para los cálculos metrológicos.
 4. Alternativamente, puedes visitar los DOIs de Zenodo enlazados para descargar el *paper* original en PDF, LaTeX y los archivos locales.
+5. **Exploración ampliada:** Si deseas profundizar aún más, podrás encontrar **experimentos y cuadernos Colab adicionales** directamente en los repositorios de Zenodo de cada artículo o en sus respectivos repositorios de GitHub asociados.
 
 ---
 
