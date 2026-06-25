@@ -67,7 +67,7 @@ Establecimiento de las bases algebraicas, la certificación de la KO-dimensión 
   * 🛡️ **Lean 4:** Demostración de que la combinación del bit de Shannon ($\ln 2$) y la fase geométrica ($i\pi$) colapsa algebraicamente en el vacío $\zeta(0) = -1/2$.
 
 ### Parte II. El Espectro Aritmético
-*Descomposición polifásica de objetos matemáticos continuos, desde el espectro modular de $\pi$ hasta la reconciliación del caos cuántico y el orden aritmético en los ceros de la función zeta de Riemann.*
+Descomposición polifásica de objetos matemáticos continuos, desde el espectro modular de $\pi$ hasta la reconciliación del caos cuántico y el orden aritmético en los ceros de la función zeta de Riemann.
 
 * 📖 **Capítulo 4:** El Espectro Modular de $\pi$
 * 📖 **Capítulo 5:** El Hamiltoniano Modular de Memoria Aritmética
@@ -86,7 +86,7 @@ Establecimiento de las bases algebraicas, la certificación de la KO-dimensión 
   * 🧮 **Python:** Verificación computacional de la retención de canal en los primos de Mersenne.
 
 ### Parte III. El Sustrato en el Mundo Físico
-*Contrastación empírica y predicciones falsables: resolución de tensiones cosmológicas, evaluación de la constante de estructura fina, anomalía del muón $g-2$ y confinamiento hadrónico.*
+Contrastación empírica y predicciones falsables: resolución de tensiones cosmológicas, evaluación de la constante de estructura fina, anomalía del muón $g-2$ y confinamiento hadrónico.
 
 * 📖 **Capítulo 7:** Cosmología del Sustrato Modular
 * 📖 **Capítulo 8:** La Constante de Estructura Fina
