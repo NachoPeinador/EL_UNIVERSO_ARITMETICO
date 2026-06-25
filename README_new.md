@@ -26,9 +26,9 @@ Hemos habilitado un cuaderno interactivo dedicado exclusivamente a compilar y ve
 * 🔗 **[Abrir Certificación Formal en Colab](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/Formal_Verification_in_Lean_4.ipynb)**
 
 **¿Qué certifica este motor aritmético?**
-* **Involución Modular y Simetría Quiral:** Demuestra que la clase de congruencia 5 es su propio inverso multiplicativo y el inverso aditivo de 1 módulo 6. Esto prueba formalmente que el desplazamiento de fase $\phi_2=\pi$ es un requisito topológico estricto del vacío cuántico, no un ajuste empírico.
+* **Involución Modular y Simetría Quiral:** Demuestra que la clase de congruencia 5 es su propio inverso multiplicativo y el inverso aditivo de 1 módulo 6. Esto prueba formalmente que el desplazamiento de fase $\phi_2 = \pi$ es un requisito topológico estricto del vacío cuántico, no un ajuste empírico.
 * **Isomorfismo del Grupo de Unidades:** Verifica exhaustivamente que $(\mathbb{Z}/6\mathbb{Z})^\times \cong \mathbb{Z}/2\mathbb{Z}$, confirmando a nivel de teoría de tipos que existen exactamente dos canales resonantes para la transmisión de información fundamental.
-* **Clausura Topológica del Autómata:** Certifica que la regla de transición determinista $\delta(r,b)=(2r+b)\pmod 6$ está estrictamente acotada, garantizando matemáticamente que no existen fugas fuera de la variedad protegida de la red tensorial.
+* **Clausura Topológica del Autómata:** Certifica que la regla de transición determinista $\delta(r,b) = (2r+b) \pmod{6}$ está estrictamente acotada, garantizando matemáticamente que no existen fugas fuera de la variedad protegida de la red tensorial.
 
 ---
 
@@ -52,7 +52,7 @@ Piensa en él como un laboratorio cuántico de bolsillo. Esta instancia interact
 El corpus teórico del libro se divide en cuatro grandes áreas. A continuación se detalla la estructura de los 13 capítulos junto a sus repositorios estables (DOIs de Zenodo) y los correspondientes **cuadernos interactivos ejecutables en Google Colab**.
 
 ### Parte I. Fundamentos y Constantes del Sustrato
-*Establecimiento de las bases algebraicas, la certificación de la KO-dimensión 6 y la derivación pura de las constantes universales del sustrato $R_{\text{fund}}$, $\beta$, $\kappa_{\text{info}}$.*
+*Establecimiento de las bases algebraicas, la certificación de la KO-dimensión 6 y la derivación pura de las constantes universales del sustrato $R_{\text{fund}}$, $\beta$ y $\kappa_{\text{info}}$.*
 
 * 📖 **Capítulo 1:** Introducción y Motivación
 * 📖 **Capítulo 2:** El Anillo $\mathbb{Z}/6\mathbb{Z}$ y la KO-Dimensión 6
@@ -61,7 +61,7 @@ El corpus teórico del libro se divide en cuatro grandes áreas. A continuación
 
 **Ejecución Interactiva:**
 * ⚡ **[Colab: La Génesis de e y la Unificación de Constantes](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/La_Génesis_de_e_y_la_Unificación_de_Constantes.ipynb)**
-  * 🛡️ **Lean 4:** Certificación algebraica estricta del exponente fundamental y el origen geométrico del factor de entropía $1/4$.
+  * 🛡️ **Lean 4:** Certificación algebraica estricta del exponente fundamental y el origen geométrico del factor de entropía **1/4**.
   * 🧮 **Python:** Validación numérica de precisión extrema (55 dígitos decimales) de la constante de estructura fina y su conexión con $\zeta(0)$.
 * ⚡ **[Colab: La Emergencia de la Geometría](https://colab.research.google.com/github/NachoPeinador/EL_UNIVERSO_ARITMETICO/blob/main/Notebooks/La_Emergencia_de_la_Geometría.ipynb)**
   * 🛡️ **Lean 4:** Demostración de que la combinación del bit de Shannon ($\ln 2$) y la fase geométrica ($i\pi$) colapsa algebraicamente en el vacío $\zeta(0) = -1/2$.
@@ -180,14 +180,3 @@ Si los conceptos teóricos, las demostraciones empíricas o el código fuente de
   address   = {Valladolid, España},
   url       = {[https://github.com/NachoPeinador/EL_UNIVERSO_ARITMETICO](https://github.com/NachoPeinador/EL_UNIVERSO_ARITMETICO)}
 }
-```
-
----
-
-## 🎧 Divulgación, Infografías y Resúmenes de Audio
-
-Si es tu primer contacto con la Teoría del Sustrato Modular, te invitamos a explorar los materiales multimedia generados para facilitar la inmersión en los conceptos clave de la obra:
-* 🎙️ **Podcast: El universo funciona en base seis:** Un análisis épico y didáctico de la obra definitiva, pasando por el "espejo quiral" y el ensamblaje en Lean 4. *(Enlace al archivo de audio)*
-* 🎙️ **Podcast: El universo es aritmética de módulo seis:** Una introducción general a las tensiones cosmológicas, el muón $g-2$ y el colapso criptográfico. *(Enlace al archivo de audio)*
-* 🎙️ **Reflexión: La sinfonía aritmética de los números primos:** Una pieza breve y profunda sobre la armonía subyacente al ruido y el Sueño de Riemann. *(Enlace al archivo de audio)*
-* 🗺️ **Infografía: El Andamiaje del Sustrato:** Un mapa conceptual en alta resolución que muestra cómo de la KO-dimensión 6 derivan las constantes $R_{\text{fund}}$, $\beta$ y $\kappa_{\text{info}}$. *(Enlace a la imagen)*
