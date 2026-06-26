@@ -17,6 +17,21 @@ Para garantizar el rigor absoluto y democratizar el acceso a la ciencia de vangu
 
 ---
 
+## 🌌 El Manifiesto del Sustrato: De la Arrogancia del Continuo a la Parsimonia Discreta
+
+Durante el último siglo, la ciencia ha contemplado el universo a través de la lente del *continuo*, asumiendo una realidad infinitamente divisible, inherentemente ruidosa y fundamentalmente caótica. Bajo este paradigma, la comprensión de la naturaleza se ha convertido en un ejercicio de **fuerza bruta**: colisionadores cada vez más masivos, supercomputadoras calculando decimales infinitos y la adición constante de parámetros arbitrarios para tapar las anomalías (materia oscura, energía oscura, supersimetría). 
+
+**La Teoría del Sustrato Modular (TSM) impugna esta visión.**
+
+Este proyecto nace de una premisa radicalmente distinta: **la humildad, la sencillez y la parsimonia**. El universo no computa utilizando números de coma flotante con infinita precisión, ni se rige por un caos estocástico que deba ser domado por la fuerza. En su nivel más profundo, la realidad es de naturaleza **discreta, determinista y aritméticamente perfecta**.
+
+* **Contra la complejidad innecesaria:** Proponemos que las constantes fundamentales (la geometría del espaciotiempo, la constante de estructura fina, el colapso cuántico) no son accidentes cósmicos ni fracciones aleatorias, sino *emergencias inevitables* de la teoría de números. 
+* **La elegancia del límite:** Al entender que el espacio de estados está confinado topológicamente (en la simetría del anillo Z/6Z), demostramos que la naturaleza extrae la máxima complejidad estructural con el mínimo costo entrópico. Es lo que denominamos el *Codo de Parsimonia*.
+
+Al abandonar la ilusión del continuo y adoptar la geometría de la información discreta, anomalías que antes requerían correcciones arbitrarias se resuelven por sí solas. Este repositorio no es solo una colección de código; es la demostración matemática y metrológica de que, en el fondo, **la realidad no se esconde en el caos infinito, sino en la elegante y humilde arquitectura de los números enteros.**
+
+---
+
 ## 🛡️ Certificación Matemática Irrefutable (Lean 4)
 
 Antes de pasar a las simulaciones empíricas, es fundamental establecer el rigor absoluto de esta teoría. La viabilidad del anillo $\mathbb{Z}/6\mathbb{Z}$ como sustrato fundamental no es una conjetura o una aproximación numérica, sino una necesidad topológica demostrada y certificada mecánicamente mediante **Lean 4** (el demostrador de teoremas asistido por ordenador empleado en las matemáticas de vanguardia).
