@@ -5,6 +5,7 @@
 [![Lean 4 Validated](https://img.shields.io/badge/Lean%204-Validated-success.svg)](https://leanprover.github.io/)
 [![Python 3.12](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--1822--3452-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-1822-3452)
+[![Podcast en iVoox](https://img.shields.io/badge/Podcast_iVoox-Episodio_1_Disponible-FF5A00?style=flat&logo=ivoox&logoColor=white)](https://go.ivoox.com/rf/176327083)
 
 **Autor:** José Ignacio Peinador Sala  
 **ISBN:** 978-84-09-87158-2 | **Depósito Legal:** VA-346-2026  
@@ -34,6 +35,17 @@ Este proyecto nace de una premisa radicalmente distinta: **la humildad, la senci
 * **La elegancia del límite:** Al entender que el espacio de estados está confinado topológicamente (en la simetría del anillo Z/6Z), demostramos que la naturaleza extrae la máxima complejidad estructural con el mínimo costo entrópico. Es lo que denominamos el *Codo de Parsimonia*.
 
 Al abandonar la ilusión del continuo y adoptar la geometría de la información discreta, anomalías que antes requerían correcciones arbitrarias se resuelven por sí solas. Este repositorio no es solo una colección de código; es la demostración matemática y metrológica de que, en el fondo, **la realidad no se esconde en el caos infinito, sino en la elegante y humilde arquitectura de los números enteros.**
+
+---
+
+## 🎙️ Materiales Interactivos y Podcast: Orden vs Caos
+
+Para acompañar la rigurosidad matemática y el código de este repositorio, hemos producido una serie de *podcasts* en formato *Deep Dive* (generados con IA) que traducen las densas implicaciones físicas y criptográficas de la Teoría del Sustrato Modular a un debate filosófico y accesible.
+
+* 🎧 **[Episodio 1x01 - El Código Fuente del Vacío: Saliendo de la Caverna](https://go.ivoox.com/rf/176327083)**
+  > ¿Y si la ciencia moderna llevara un siglo atrapada en el Mito de la Caverna de Platón? En este primer episodio, cuestionamos la arrogancia de la física del "continuo" y exploramos cómo la geometría de la información discreta nos permite observar la verdadera y elegante arquitectura del espaciotiempo.
+
+*(Próximamente: Episodio 2 sobre Termodinámica y el Codo de Parsimonia, y Episodio 3 sobre el colapso de la criptografía cuántica).*
 
 ---
 
