@@ -1,6 +1,6 @@
 # 🌌 El Universo Aritmético: $\mathbb{Z}/6\mathbb{Z}$ como Sustrato Fundamental de la Ley Física
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20933216.svg)](https://doi.org/10.5281/zenodo.20933216)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Lean 4 Validated](https://img.shields.io/badge/Lean%204-Validated-success.svg)](https://leanprover.github.io/)
 [![Python 3.12](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/)
