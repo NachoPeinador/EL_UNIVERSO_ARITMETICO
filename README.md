@@ -9,7 +9,7 @@
 **Autor:** José Ignacio Peinador Sala  
 **ISBN:** 978-84-09-87158-2 | **Depósito Legal:** VA-346-2026  
 
-Bienvenido al repositorio central y material suplementario del tratado científico *El Universo Aritmético*. 
+Bienvenido al repositorio central y material suplementario del libro *El Universo Aritmético*. 
 
 Esta obra propone un cambio de paradigma en la física teórica y las matemáticas: la realidad no está escrita en el lenguaje de la geometría continua, sino en el de la aritmética discreta. El anillo modular **$\mathbb{Z}/6\mathbb{Z}$** constituye el sustrato algebraico del vacío, y sus propiedades geométricas y termodinámicas explican desde el valor de la constante de estructura fina y la dinámica de la materia condensada, hasta la expansión cósmica y la vulnerabilidad de la criptografía post-cuántica.
 
