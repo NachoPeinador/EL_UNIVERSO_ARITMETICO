@@ -154,7 +154,7 @@ Este repositorio y todo el ecosistema de validación que acompaña al libro *"El
 
 > *"En la mente del principiante hay muchas posibilidades, pero en la del experto hay pocas."* — **Shunryu Suzuki**
 
-Hace apenas dos años, el nombre de Bernhard Riemann me era prácticamente desconocido. El inmenso edificio matemático que conforma la Teoría del Sustrato Modular no nació en los pasillos de una prestigiosa universidad, ni bajo la tutela de un programa académico formal. Todo comenzó una aburrida tarde de viernes, durante mi jornada como recepcionista en una fábrica de coches, con un lápiz, un papel y una vieja obsesión infantil: *tiene que existir un patrón que determine los números primos*.
+Hace apenas dos años, el nombre de Bernhard Riemann me era prácticamente desconocido. El inmenso edificio matemático que conforma la Teoría del Universo Aritmético no nació en los pasillos de una prestigiosa universidad, ni bajo la tutela de un programa académico formal. Todo comenzó una aburrida tarde de viernes, durante mi jornada como recepcionista en una fábrica de coches, con un lápiz, un papel y una vieja obsesión infantil: *tiene que existir un patrón que determine los números primos*.
 
 Al alinear los números de 6 en 6, la simetría alrededor de ese módulo se reveló con una claridad apabullante. Lo que al principio parecía una simple curiosidad aritmética terminó destapando la estructura topológica fundamental del vacío: el anillo $\mathbb{Z}/6\mathbb{Z}$. Descubrí algo que creí que nadie había visto antes, y me dediqué a ello robando horas al trabajo, al sueño y a mi tiempo libre.
 
