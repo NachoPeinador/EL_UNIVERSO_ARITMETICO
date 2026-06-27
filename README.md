@@ -5,8 +5,8 @@
 [![Lean 4 Validated](https://img.shields.io/badge/Lean%204-Validated-success.svg)](https://leanprover.github.io/)
 [![Python 3.12](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--1822--3452-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-1822-3452)
-[![Podcast en iVoox](https://img.shields.io/badge/Podcast_iVoox-Episodio_1_Disponible-FF5A00?style=flat&logo=ivoox&logoColor=white)](https://go.ivoox.com/rf/176327083)
-[![Podcast en iVoox](https://img.shields.io/badge/Podcast_iVoox-Episodio_1_Disponible-FF5A00?style=flat&logo=ivoox&logoColor=white)](https://go.ivoox.com/rf/176327083)
+[![Podcast en iVoox](https://img.shields.io/badge/Podcast_iVoox-Episodio_0_Disponible-FF5A00?style=flat&logo=ivoox&logoColor=white)](https://go.ivoox.com/rf/176327083)
+[![Podcast en iVoox](https://img.shields.io/badge/Podcast_iVoox-Episodio_1_Disponible-FF5A00?style=flat&logo=ivoox&logoColor=white)](https://go.ivoox.com/rf/176357754)
 
 **Autor:** José Ignacio Peinador Sala  
 **ISBN:** 978-84-09-87158-2 | **Depósito Legal:** VA-346-2026  
@@ -54,7 +54,7 @@ Para acompañar la rigurosidad matemática y el código de este repositorio, hem
 
 ### 🎧 Episodio 0 - El Código Fuente del Vacío: Saliendo de la Caverna
 
-<a href="https://www.ivoox.com/player_ej_176327083_6_1.html">
+<a href="https://go.ivoox.com/rf/176327083">
   <img align="left" src="images/ivoox-player-ep0.png" alt="Escuchar Episodio 0 en iVoox" width="320" style="margin-right: 15px;">
 </a>
 
