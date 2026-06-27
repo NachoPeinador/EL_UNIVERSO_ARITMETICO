@@ -15,10 +15,6 @@
   <img align="left" src="images/amazon-portada.png" alt="Portada El Universo Aritmético" width="280">
 </a>
 
-<a href="https://amzn.eu/d/02vpqIBs">
-  <img align="left" src="images/amazon-portada.png" alt="Portada El Universo Aritmético" width="280">
-</a>
-
 ### 📢 YA DISPONIBLE EN AMAZON
 La obra completa de **El Universo Aritmético** ya está disponible para su compra en formato eBook y tapa blanda. Descubre el manifiesto y la fundamentación física, termodinámica y filosófica que da vida a este código.
 
