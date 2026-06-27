@@ -17,6 +17,7 @@
 
 ### 📢 YA DISPONIBLE EN AMAZON
 <br>
+
 **Bienvenido al repositorio central y material suplementario del libro *El Universo Aritmético*.**
 
 Esta obra propone un cambio de paradigma radical frente a la arrogancia de la física teórica contemporánea. Mientras el enrocamiento académico se empeña en cuadrar la realidad a martillazos de precisión infinita, añadiendo dimensiones ocultas y computación de fuerza bruta para sostener la ilusión del "continuo", este proyecto nace de la humildad y la parsimonia. Es una invitación a salir de la caverna platónica de las sombras estocásticas y mirar de frente al verdadero código fuente del cosmos.
