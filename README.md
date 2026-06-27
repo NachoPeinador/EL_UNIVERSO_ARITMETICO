@@ -36,12 +36,7 @@ Frente a la ceguera institucional que protege sus modelos bajo el secretismo de 
 
 Hemos construido un ecosistema de **Cuadernos Interactivos (Google Colab)** diseñados para una **reproducibilidad total a un solo clic**. Combinando la certificación lógica incondicional de **Lean 4** (que valida de manera matemática e incontrovertible los teoremas) con simulaciones metrológicas en **Python (`mpmath`)**, puedes verificar la estructura geométrica del universo directamente desde el navegador de tu ordenador o **incluso desde tu teléfono móvil**.
 
-
-🛒 **[Haz clic aquí para conseguir tu ejemplar](https://amzn.eu/d/02vpqIBs)**
-
 <br clear="left"/>
-
-
 
 ---
 
