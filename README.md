@@ -11,17 +11,22 @@
 **Autor:** José Ignacio Peinador Sala  
 **ISBN:** 978-84-09-87158-2 | **Depósito Legal:** VA-346-2026  
 
-> **📢 YA DISPONIBLE EN AMAZON**
-> La obra completa de *El Universo Aritmético* ya está disponible para su compra en formato eBook y tapa blanda. Descubre la fundamentación física, termodinámica y filosófica detrás de este repositorio.
-> 
-> [![Comprar El Universo Aritmético en Amazon](images/amazon-portada.png)](https://amzn.eu/d/02vpqIBs)
-> 
-> 🛒 **[Haz clic aquí para conseguir tu ejemplar](https://amzn.eu/d/02vpqIBs)**
----
+<a href="https://amzn.eu/d/02vpqIBs">
+  <img align="left" src="images/amazon-portada.png" alt="Portada El Universo Aritmético" width="280">
+</a>
 
-Bienvenido al repositorio central y material suplementario del libro *El Universo Aritmético*. 
+### 📢 YA DISPONIBLE EN AMAZON
+La obra completa de **El Universo Aritmético** ya está disponible para su compra en formato eBook y tapa blanda. Descubre la fundamentación física, termodinámica y filosófica detrás de este repositorio.
+
+🛒 **[Haz clic aquí para conseguir tu ejemplar](https://amzn.eu/d/02vpqIBs)**
+
+<br>
+
+**Bienvenido al repositorio central y material suplementario del libro *El Universo Aritmético*.**
 
 Esta obra propone un cambio de paradigma en la física teórica y las matemáticas: la realidad no está escrita en el lenguaje de la geometría continua, sino en el de la aritmética discreta. El anillo modular **$\mathbb{Z}/6\mathbb{Z}$** constituye el sustrato algebraico del vacío, y sus propiedades geométricas y termodinámicas explican desde el valor de la constante de estructura fina y la dinámica de la materia condensada, hasta la expansión cósmica y la vulnerabilidad de la criptografía post-cuántica.
+
+<br clear="left"/>
 
 Para garantizar el rigor absoluto y democratizar el acceso a la ciencia de vanguardia (*Open Science*), este proyecto cuenta con un ecosistema de **Cuadernos Interactivos (Google Colab)** diseñados para una **reproducibilidad total a un solo clic**. Combinando la certificación lógica incondicional en **Lean 4** con simulaciones metrológicas y termo-estadísticas en **Python (`mpmath`)**, hemos convertido la validación de estos descubrimientos en una experiencia sin fricción: no necesitas instalar compiladores ni poseer un clúster de supercomputación. Puedes auditar la física del vacío desde el navegador de tu ordenador o **incluso desde tu teléfono móvil**.
 
