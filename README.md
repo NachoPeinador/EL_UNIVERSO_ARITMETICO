@@ -50,18 +50,33 @@ Al abandonar la ilusión del continuo y adoptar la geometría de la información
 
 Para acompañar la rigurosidad matemática y el código de este repositorio, hemos producido una serie de *podcasts* en formato *Deep Dive* (generados con IA) que traducen las densas implicaciones físicas y criptográficas de la Teoría del Sustrato Modular a un debate filosófico y accesible.
 
-* 🎧 **[Episodio 0 - El Código Fuente del Vacío: Saliendo de la Caverna](https://go.ivoox.com/rf/176327083)**
-  > ¿Y si la ciencia moderna llevara un siglo atrapada en el Mito de la Caverna de Platón? En este primer episodio, cuestionamos la arrogancia de la física del "continuo" y exploramos cómo la geometría de la información discreta nos permite observar la verdadera y elegante arquitectura del espaciotiempo.
+---
 
-* 🎧 Episodio 1x01 - El Código Fuente del Vacío: La Anomalía de Zehavi
-  > ¿Qué ocurre cuando la realidad observable no encaja en las ecuaciones del consenso científico? En este episodio, nos adentramos en el misterio de la "Anomalía de Zehavi" y salimos de la caverna de Platón para mirar de frente a la luz de las matemáticas puras. Descubre cómo las constantes fundamentales no son mediciones caóticas, sino emergencias inevitables de una arquitectura geométrica perfecta: la simetría del número seis ($\mathbb{Z}/6\mathbb{Z}$).
+### 🎧 Episodio 0 - El Código Fuente del Vacío: Saliendo de la Caverna
 
-[![Escuchar Episodio 1 en iVoox](images/ivoox-player-ep1.png)](https://go.ivoox.com/rf/176357754)
+<a href="https://www.ivoox.com/player_ej_176327083_6_1.html">
+  <img align="left" src="images/ivoox-player-ep0.png" alt="Escuchar Episodio 0 en iVoox" width="320" style="margin-right: 15px;">
+</a>
 
-*(Próximamente: Episodio 3 sobre el colapso de la criptografía cuántica).*
+¿Y si la ciencia moderna llevara un siglo atrapada en el Mito de la Caverna de Platón? En este episodio piloto, cuestionamos la arrogancia de la física del "continuo" y exploramos cómo la geometría de la información discreta nos permite observar la verdadera y elegante arquitectura del espaciotiempo.
+
+<br clear="left"/>
 
 ---
 
+### 🎧 Episodio 1x01 - El Código Fuente del Vacío: La Anomalía de Zehavi
+
+<a href="https://go.ivoox.com/rf/176357754">
+  <img align="left" src="images/ivoox-player-ep1.png" alt="Escuchar Episodio 1 en iVoox" width="320" style="margin-right: 15px;">
+</a>
+
+¿Qué ocurre cuando la realidad observable no encaja en las ecuaciones del consenso científico? En este episodio, nos adentramos en el misterio de la "Anomalía de Zehavi" y salimos de la caverna de Platón para mirar de frente a la luz de las matemáticas puras. Descubre cómo las constantes fundamentales no son mediciones caóticas, sino emergencias inevitables de una arquitectura geométrica perfecta: la simetría del número seis ($\mathbb{Z}/6\mathbb{Z}$).
+
+<br clear="left"/>
+
+---
+
+*(Próximamente: Episodio 2 sobre Termodinámica y el Codo de Parsimonia, y Episodio 3 sobre el colapso de la criptografía cuántica).*
 ## 🛡️ Certificación Matemática Irrefutable (Lean 4)
 
 Antes de pasar a las simulaciones empíricas, es fundamental establecer el rigor absoluto de esta teoría. La viabilidad del anillo $\mathbb{Z}/6\mathbb{Z}$ como sustrato fundamental no es una conjetura o una aproximación numérica, sino una necesidad topológica demostrada y certificada mecánicamente mediante **Lean 4** (el demostrador de teoremas asistido por ordenador empleado en las matemáticas de vanguardia).
