@@ -11,9 +11,12 @@
 **Autor:** José Ignacio Peinador Sala  
 **ISBN:** 978-84-09-87158-2 | **Depósito Legal:** VA-346-2026  
 
-> **📢 PRÓXIMO LANZAMIENTO**
-> El libro *El Universo Aritmético* estará disponible para su compra en Amazon (en formato eBook y tapa blanda) a partir del **1 de julio de 2026**. Los enlaces oficiales de compra se habilitarán en este repositorio el mismo día del lanzamiento.
-
+> **📢 YA DISPONIBLE EN AMAZON**
+> La obra completa de *El Universo Aritmético* ya está disponible para su compra en formato eBook y tapa blanda. Descubre la fundamentación física, termodinámica y filosófica detrás de este repositorio.
+> 
+> [![Comprar El Universo Aritmético en Amazon](images/amazon-portada.png)](https://amzn.eu/d/02vpqIBs)
+> 
+> 🛒 **[Haz clic aquí para conseguir tu ejemplar](https://amzn.eu/d/02vpqIBs)**
 ---
 
 Bienvenido al repositorio central y material suplementario del libro *El Universo Aritmético*. 
