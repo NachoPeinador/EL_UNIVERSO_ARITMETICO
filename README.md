@@ -15,12 +15,32 @@
   <img align="left" src="images/amazon-portada.png" alt="Portada El Universo Aritmético" width="280">
 </a>
 
+<a href="https://amzn.eu/d/02vpqIBs">
+  <img align="left" src="images/amazon-portada.png" alt="Portada El Universo Aritmético" width="280">
+</a>
+
 ### 📢 YA DISPONIBLE EN AMAZON
-Descubre la fundamentación física, termodinámica y filosófica detrás de este repositorio.
+La obra completa de **El Universo Aritmético** ya está disponible para su compra en formato eBook y tapa blanda. Descubre el manifiesto y la fundamentación física, termodinámica y filosófica que da vida a este código.
 
-Esta obra propone un cambio de paradigma en la física teórica y las matemáticas: la realidad no está escrita en el lenguaje de la geometría continua, sino en el de la aritmética discreta. El anillo modular **$\mathbb{Z}/6\mathbb{Z}$** constituye el sustrato algebraico del vacío, y sus propiedades geométricas y termodinámicas explican desde el valor de la constante de estructura fina y la dinámica de la materia condensada, hasta la expansión cósmica y la vulnerabilidad de la criptografía post-cuántica
+🛒 **[Haz clic aquí para conseguir tu ejemplar](https://amzn.eu/d/02vpqIBs)**
 
-Para garantizar el rigor absoluto y democratizar el acceso a la ciencia de vanguardia (*Open Science*), este proyecto cuenta con un ecosistema de **Cuadernos Interactivos (Google Colab)** diseñados para una **reproducibilidad total a un solo clic**. Combinando la certificación lógica incondicional en **Lean 4** con simulaciones metrológicas y termo-estadísticas en **Python (`mpmath`)**, hemos convertido la validación de estos descubrimientos en una experiencia sin fricción: no necesitas instalar compiladores ni poseer un clúster de supercomputación. Puedes auditar la física del vacío desde el navegador de tu ordenador o **incluso desde tu teléfono móvil**.
+<br>
+
+**Bienvenido al repositorio central y material suplementario del libro *El Universo Aritmético*.**
+
+Esta obra propone un cambio de paradigma radical frente a la arrogancia de la física teórica contemporánea. Mientras el enrocamiento académico se empeña en cuadrar la realidad a martillazos de precisión infinita, añadiendo dimensiones ocultas y computación de fuerza bruta para sostener la ilusión del "continuo", este proyecto nace de la humildad y la parsimonia. Es una invitación a salir de la caverna platónica de las sombras estocásticas y mirar de frente al verdadero código fuente del cosmos.
+
+Demostramos que la naturaleza no opera con decimales infinitos ni con el caos del ruido cuántico; la realidad fundamental está escrita en la elegante arquitectura de la aritmética discreta. El anillo modular **$\mathbb{Z}/6\mathbb{Z}$** constituye el sustrato algebraico del vacío. Al rescatar del olvido los datos que el consenso científico barrió bajo la alfombra etiquetándolos como meras "anomalías", sus propiedades geométricas y termodinámicas desvelan un universo determinista: desde el origen puramente aritmético de la constante de estructura fina hasta el colapso inevitable de la criptografía post-cuántica.
+
+<br clear="left"/>
+
+---
+
+### 🌐 Ciencia Abierta (Open Science) y Reproducibilidad
+
+Frente a la ceguera institucional que protege sus modelos bajo el secretismo de infraestructuras inalcanzables, este proyecto apuesta por una democratización absoluta y sin fricciones de la ciencia de vanguardia. No necesitas un clúster de supercomputación ni instalar complejos entornos de desarrollo para auditar la física del vacío. 
+
+Hemos construido un ecosistema de **Cuadernos Interactivos (Google Colab)** diseñados para una **reproducibilidad total a un solo clic**. Combinando la certificación lógica incondicional de **Lean 4** (que valida de manera matemática e incontrovertible los teoremas) con simulaciones metrológicas en **Python (`mpmath`)**, puedes verificar la estructura geométrica del universo directamente desde el navegador de tu ordenador o **incluso desde tu teléfono móvil**.
 
 
 🛒 **[Haz clic aquí para conseguir tu ejemplar](https://amzn.eu/d/02vpqIBs)**
