@@ -47,7 +47,6 @@ Para acompañar la rigurosidad matemática y el código de este repositorio, hem
   > ¿Y si la ciencia moderna llevara un siglo atrapada en el Mito de la Caverna de Platón? En este primer episodio, cuestionamos la arrogancia de la física del "continuo" y exploramos cómo la geometría de la información discreta nos permite observar la verdadera y elegante arquitectura del espaciotiempo.
 
 *(Próximamente: Episodio 2 sobre Termodinámica y el Codo de Parsimonia, y Episodio 3 sobre el colapso de la criptografía cuántica).*
-<iframe src="https://www.ivoox.com/player_ej_176357754_6_1.html" width="100%" height="200" frameborder="0" allowfullscreen="" scrolling="no" loading="lazy"></iframe>
 
 ---
 
