@@ -30,7 +30,7 @@ Demostramos que la naturaleza no opera con decimales infinitos ni con el caos de
 
 ### 🌐 Ciencia Abierta (Open Science) y Reproducibilidad
 
-Frente a la ceguera institucional que protege sus modelos bajo el secretismo de infraestructuras inalcanzables, este proyecto apuesta por una democratización absoluta y sin fricciones de la ciencia de vanguardia. No necesitas un clúster de supercomputación ni instalar complejos entornos de desarrollo para auditar la física del vacío. 
+Este proyecto apuesta por una democratización absoluta y sin fricciones de la ciencia de vanguardia. No necesitas un clúster de supercomputación ni instalar complejos entornos de desarrollo para auditar la física del vacío. 
 
 Hemos construido un ecosistema de **Cuadernos Interactivos (Google Colab)** diseñados para una **reproducibilidad total a un solo clic**. Combinando la certificación lógica incondicional de **Lean 4** (que valida de manera matemática e incontrovertible los teoremas) con simulaciones metrológicas en **Python (`mpmath`)**, puedes verificar la estructura geométrica del universo directamente desde el navegador de tu ordenador o **incluso desde tu teléfono móvil**.
 
