@@ -15,7 +15,7 @@
   <img align="left" src="images/amazon-portada.png" alt="Portada El Universo Aritmético" width="280">
 </a>
 
-### 📢 YA DISPONIBLE EN AMAZON
+### 🛒 **[Haz clic aquí para conseguir tu ejemplar](https://amzn.eu/d/02vpqIBs)**
 <br>
 
 **Bienvenido al repositorio central y material suplementario del libro *El Universo Aritmético*.**
@@ -23,8 +23,6 @@
 Esta obra propone un cambio de paradigma radical frente a la arrogancia de la física teórica contemporánea. Mientras el enrocamiento académico se empeña en cuadrar la realidad a martillazos de precisión infinita, añadiendo dimensiones ocultas y computación de fuerza bruta para sostener la ilusión del "continuo", este proyecto nace de la humildad y la parsimonia. Es una invitación a salir de la caverna platónica de las sombras estocásticas y mirar de frente al verdadero código fuente del cosmos.
 
 Demostramos que la naturaleza no opera con decimales infinitos ni con el caos del ruido cuántico; la realidad fundamental está escrita en la elegante arquitectura de la aritmética discreta. El anillo modular **$\mathbb{Z}/6\mathbb{Z}$** constituye el sustrato algebraico del vacío. Al rescatar del olvido los datos que el consenso científico barrió bajo la alfombra etiquetándolos como meras "anomalías", sus propiedades geométricas y termodinámicas desvelan un universo determinista: desde el origen puramente aritmético de la constante de estructura fina hasta el colapso inevitable de la criptografía post-cuántica.
-
-🛒 **[Haz clic aquí para conseguir tu ejemplar](https://amzn.eu/d/02vpqIBs)**
 
 <br clear="left"/>
 
