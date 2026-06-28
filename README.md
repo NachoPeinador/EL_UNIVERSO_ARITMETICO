@@ -85,7 +85,22 @@ Para acompañar la rigurosidad matemática y el código de este repositorio, hem
 
 ---
 
-*(Próximamente: Episodio 2 sobre Termodinámica y el Codo de Parsimonia, y Episodio 3 sobre el colapso de la criptografía cuántica).*
+### 🎧 Episodio 1x02 - El Codo de Parsimonia: La Física del Ahorro
+
+<a href="https://go.ivoox.com/rf/176383743">
+  <img align="left" src="images/ivoox-player-ep2.png" alt="Escuchar Episodio 2 en iVoox" width="320" style="margin-right: 15px;">
+</a>
+
+¿Es posible que la física moderna haya cometido el mayor error de cálculo de la historia? En este episodio exploramos la "Catástrofe del Vacío", un fallo de 120 órdenes de magnitud nacido de la soberbia del continuo. Desmontamos la carrera loca hacia las 11 dimensiones y descubrimos, de la mano de Rolf Landauer, el "Codo de Parsimonia": la prueba de que el universo es un optimizador magistral que prefiere la economía matemática de $\mathbb{Z}/6\mathbb{Z}$.
+
+<br clear="left"/>
+
+---
+
+*(Próximamente: Episodio 3 sobre el colapso de la criptografía cuántica).*
+
+---
+
 ## 🛡️ Certificación Matemática Irrefutable (Lean 4)
 
 Antes de pasar a las simulaciones empíricas, es fundamental establecer el rigor absoluto de esta teoría. La viabilidad del anillo $\mathbb{Z}/6\mathbb{Z}$ como sustrato fundamental no es una conjetura o una aproximación numérica, sino una necesidad topológica demostrada y certificada mecánicamente mediante **Lean 4** (el demostrador de teoremas asistido por ordenador empleado en las matemáticas de vanguardia).
