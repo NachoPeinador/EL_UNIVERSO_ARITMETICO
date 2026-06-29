@@ -109,7 +109,7 @@ Para acompañar la rigurosidad matemática y el código de este repositorio, hem
 
 ### ⏳ Episodio Final (Próximamente) - El Mosaico Completo: Síntesis y Perspectivas
 
-<img align="left" src="images/ivoox-player-soon.png" alt="Episodio Final Próximamente en iVoox" width="320" style="margin-right: 15px;">
+<img align="left" src="images/ivoox-player-soon.png" alt="Episodio Final Próximamente en iVoox" width="160" style="margin-right: 15px;">
 
 El gran cierre de la serie *Deep Dive*. En este episodio final, daremos un paso atrás para contemplar el mosaico unificado de la Teoría del Sustrato Modular en toda su magnitud. Analizaremos la **Tabla Unificada de Constantes del Sustrato**, donde magnitudes como la constante de estructura fina ($\alpha^{-1}$), las tensiones cosmológicas de Hubble ($H_0 = 73.56 \text{ km/s/Mpc}$) y $S_8$, el zoo hadrónico exótico y la anomalía magnética del muón ($g-2$) convergen de forma limpia, sin un solo parámetro libre ajustable. 
 
