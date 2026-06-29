@@ -97,7 +97,7 @@ Para acompañar la rigurosidad matemática y el código de este repositorio, hem
 
 ### 🎧 Episodio 1x03 - El Fin de los Secretos: El Colapso Post-Cuántico
 
-<a href="ENLACE_AL_EPISODIO_3_EN_IVOOX">
+<a href="https://go.ivoox.com/rf/176428694">
   <img align="left" src="images/ivoox-player-ep3.png" alt="Escuchar Episodio 3 en iVoox" width="320" style="margin-right: 15px;">
 </a>
 
