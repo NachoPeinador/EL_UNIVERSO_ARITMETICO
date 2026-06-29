@@ -107,7 +107,15 @@ Para acompañar la rigurosidad matemática y el código de este repositorio, hem
 
 ---
 
-*(Próximamente: Episodio 3 sobre el colapso de la criptografía cuántica).*
+### ⏳ Episodio Final (Próximamente) - El Mosaico Completo: Síntesis y Perspectivas
+
+<img align="left" src="images/ivoox-player-soon.png" alt="Episodio Final Próximamente en iVoox" width="320" style="margin-right: 15px;">
+
+El gran cierre de la serie *Deep Dive*. En este episodio final, daremos un paso atrás para contemplar el mosaico unificado de la Teoría del Sustrato Modular en toda su magnitud. Analizaremos la **Tabla Unificada de Constantes del Sustrato**, donde magnitudes como la constante de estructura fina ($\alpha^{-1}$), las tensiones cosmológicas de Hubble ($H_0 = 73.56 \text{ km/s/Mpc}$) y $S_8$, el zoo hadrónico exótico y la anomalía magnética del muón ($g-2$) convergen de forma limpia, sin un solo parámetro libre ajustable. 
+
+Abordaremos la tesis más radical del manuscrito: el universo físico como la ejecución macroscópica de un Autómata Finito Determinarista, un hardware aritmético discreto gobernado por las leyes de multiplicación del anillo **$\mathbb{Z}/6\mathbb{Z}$** y certificado formalmente por la lógica computacional de **Lean 4**. Desde el realismo matemático hasta la responsabilidad ética que conlleva desvelar las flaquezas de la seguridad global, este episodio trazará la hoja de ruta para la próxima generación de científicos. Porque, como sentenció Bertolt Brecht: *«El objetivo último de la ciencia no es abrir la puerta al saber infinito, sino poner una barrera al error infinito»*.
+
+<br clear="left"/>
 
 ---
 
