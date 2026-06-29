@@ -95,6 +95,18 @@ Para acompañar la rigurosidad matemática y el código de este repositorio, hem
 
 ---
 
+### 🎧 Episodio 1x03 - El Fin de los Secretos: El Colapso Post-Cuántico
+
+<a href="ENLACE_AL_EPISODIO_3_EN_IVOOX">
+  <img align="left" src="images/ivoox-player-ep3.png" alt="Escuchar Episodio 3 en iVoox" width="320" style="margin-right: 15px;">
+</a>
+
+¿Y si el "ruido" en el que confiamos para proteger nuestros mayores secretos fuera una ilusión?. En este episodio, con tintes de *thriller* tecnológico, revelamos cómo la geometría determinista del anillo **$\mathbb{Z}/6\mathbb{Z}$** acelera la llegada de la computación cuántica y, simultáneamente, rompe el escudo de la nueva criptografía post-cuántica (ML-KEM del NIST). Desde el "termostato pasivo" del vacío hasta el fin del azar informático, descubrimos por qué intentar esconder datos en un Universo matemáticamente perfecto es un esfuerzo inútil. Como diría Einstein: "Dios no juega a los dados"... y nuestros secretos tampoco pueden ocultarse para siempre.
+
+<br clear="left"/>
+
+---
+
 *(Próximamente: Episodio 3 sobre el colapso de la criptografía cuántica).*
 
 ---
