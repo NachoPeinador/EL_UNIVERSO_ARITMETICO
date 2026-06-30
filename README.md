@@ -107,15 +107,21 @@ Para acompañar la rigurosidad matemática y el código de este repositorio, hem
 
 ---
 
-### ⏳ Episodio Final (Próximamente) - El Mosaico Completo: Síntesis y Perspectivas
+---
 
-<img align="left" src="images/ivoox-player-soon.jpg" alt="Episodio Final Próximamente en iVoox" width="160" style="margin-right: 15px;">
+### 🎧 Episodio Final - El Mosaico Completo: Síntesis y Perspectivas
 
-El gran cierre de la serie *Deep Dive*. En este episodio final, daremos un paso atrás para contemplar el mosaico unificado de la Teoría del Sustrato Modular en toda su magnitud. Analizaremos la **Tabla Unificada de Constantes del Sustrato**, donde magnitudes como la constante de estructura fina ($\alpha^{-1}$), las tensiones cosmológicas de Hubble ($H_0 = 73.56 \text{ km/s/Mpc}$) y $S_8$, el zoo hadrónico exótico y la anomalía magnética del muón ($g-2$) convergen de forma limpia, sin un solo parámetro libre ajustable. 
+<a href="https://go.ivoox.com/rf/176516225">
+  <img align="left" src="images/ivoox-player-final.png" alt="Escuchar Episodio Final en iVoox" width="320" style="margin-right: 15px;">
+</a>
 
-Abordaremos la tesis más radical del manuscrito: el universo físico como la ejecución macroscópica de un Autómata Finito Determinarista, un hardware aritmético discreto gobernado por las leyes de multiplicación del anillo **$\mathbb{Z}/6\mathbb{Z}$** y certificado formalmente por la lógica computacional de **Lean 4**. Desde el realismo matemático hasta la responsabilidad ética que conlleva desvelar las flaquezas de la seguridad global, este episodio trazará la hoja de ruta para la próxima generación de científicos. Porque, como sentenció Bertolt Brecht: *«El objetivo último de la ciencia no es abrir la puerta al saber infinito, sino poner una barrera al error infinito»*.
+La culminación absoluta de la serie *Deep Dive*. En este episodio definitivo, damos un paso atrás para contemplar la Teoría del Sustrato Modular en toda su magnitud e inevitabilidad histórica. Desglosamos la **Tabla Unificada de Constantes**, el mapa donde la constante de estructura fina ($\alpha^{-1}$), las tensiones cosmológicas de Hubble ($H_0 = 73.56 \text{ km/s/Mpc}$), el zoo hadrónico exótico y la anomalía magnética del muón ($g-2$) convergen de forma limpia, sin un solo parámetro libre ajustable. 
+
+Invocando el espíritu de los grandes deterministas como Pitágoras, Dirac, Kronecker y Einstein, analizamos la tesis más radical del manuscrito: el universo físico como la ejecución macroscópica de un Autómata Finito Determinista, un reloj aritmético discreto gobernado por las leyes del anillo **$\mathbb{Z}/6\mathbb{Z}$** y certificado formalmente por la lógica computacional de **Lean 4**. Desde el realismo matemático hasta la ineludible responsabilidad ética que conlleva revelar las flaquezas de la ciberseguridad global, este cierre traza el mapa de ruta para la próxima generación de científicos. Porque, como sentenció Bertolt Brecht: *«El objetivo último de la ciencia no es abrir la puerta al saber infinito, sino poner una barrera al error infinito»*.
 
 <br clear="left"/>
+
+---
 
 ---
 
