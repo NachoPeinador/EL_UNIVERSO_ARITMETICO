@@ -12,7 +12,7 @@
 **ISBN:** 978-84-09-87158-2 | **Depósito Legal:** VA-346-2026  
 
 <a href="https://amzn.eu/d/02vpqIBs">
-  <img align="left" src="images/amazon-portada.png" alt="Portada El Universo Aritmético" width="280">
+  <img align="left" src="images/amazon-portada.png" alt="Portada El Universo Aritmético" width="320">
 </a>
 
 ### 🛒 **[Haz clic aquí para conseguir tu ejemplar](https://amzn.eu/d/02vpqIBs)**
