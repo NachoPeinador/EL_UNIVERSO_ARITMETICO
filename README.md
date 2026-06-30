@@ -107,8 +107,6 @@ Para acompañar la rigurosidad matemática y el código de este repositorio, hem
 
 ---
 
----
-
 ### 🎧 Episodio Final - El Mosaico Completo: Síntesis y Perspectivas
 
 <a href="https://go.ivoox.com/rf/176516225">
@@ -120,8 +118,6 @@ La culminación absoluta de la serie *Deep Dive*. En este episodio definitivo, d
 Invocando el espíritu de los grandes deterministas como Pitágoras, Dirac, Kronecker y Einstein, analizamos la tesis más radical del manuscrito: el universo físico como la ejecución macroscópica de un Autómata Finito Determinista, un reloj aritmético discreto gobernado por las leyes del anillo **$\mathbb{Z}/6\mathbb{Z}$** y certificado formalmente por la lógica computacional de **Lean 4**. Desde el realismo matemático hasta la ineludible responsabilidad ética que conlleva revelar las flaquezas de la ciberseguridad global, este cierre traza el mapa de ruta para la próxima generación de científicos. Porque, como sentenció Bertolt Brecht: *«El objetivo último de la ciencia no es abrir la puerta al saber infinito, sino poner una barrera al error infinito»*.
 
 <br clear="left"/>
-
----
 
 ---
 
