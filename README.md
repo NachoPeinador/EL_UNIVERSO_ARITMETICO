@@ -5,8 +5,8 @@
 [![Lean 4 Validated](https://img.shields.io/badge/Lean%204-Validated-success.svg)](https://leanprover.github.io/)
 [![Python 3.12](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--1822--3452-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-1822-3452)
-[![Podcast en iVoox](https://img.shields.io/badge/Podcast_iVoox-Episodio_0_Disponible-FF5A00?style=flat&logo=ivoox&logoColor=white)](https://go.ivoox.com/rf/176327083)
-[![Podcast en iVoox](https://img.shields.io/badge/Podcast_iVoox-Episodio_1_Disponible-FF5A00?style=flat&logo=ivoox&logoColor=white)](https://go.ivoox.com/rf/176357754)
+[![Podcast en iVoox](https://img.shields.io/badge/Podcast-Escuchar_en_iVoox-FF5A00?style=flat&logo=ivoox&logoColor=white)](https://go.ivoox.com/sq/3192831)
+[![RSS Feed](https://img.shields.io/badge/Podcast-RSS_Feed-FFA500?style=flat&logo=rss&logoColor=white)](https://feeds.ivoox.com/feed_fg_f13192831_filtro_1.xml)
 
 **Autor:** José Ignacio Peinador Sala  
 **ISBN:** 978-84-09-87158-2 | **Depósito Legal:** VA-346-2026 | **RPI:** [00 / 2026 / 3445](docs/RPI_00_2026_3445.pdf)
