@@ -9,7 +9,7 @@
 [![Podcast en iVoox](https://img.shields.io/badge/Podcast_iVoox-Episodio_1_Disponible-FF5A00?style=flat&logo=ivoox&logoColor=white)](https://go.ivoox.com/rf/176357754)
 
 **Autor:** José Ignacio Peinador Sala  
-**ISBN:** 978-84-09-87158-2 | **Depósito Legal:** VA-346-2026  
+**ISBN:** 978-84-09-87158-2 | **Depósito Legal:** VA-346-2026 | **RPI:** [00 / 2026 / 3445](docs/RPI_00_2026_3445.pdf)
 
 <a href="https://amzn.eu/d/02vpqIBs">
   <img align="left" src="images/amazon-portada.png" alt="Portada El Universo Aritmético" width="320">
