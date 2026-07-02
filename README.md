@@ -272,7 +272,7 @@ Este proyecto sirve como recordatorio de que las fronteras de la física teóric
 
 Ni deseo ni merezco ningún reconocimiento académico, he querido publicar esta investigación en abierto, entregando el código y la teoría al dominio público, porque creo que el conocimiento debe ser un bien común. Todos tenemos la responsabilidad de aportar lo que podamos para construir un mundo más justo, más humano y en armonía con las nuevas inteligencias que están por llegar. La semilla ya está plantada; confío en que, con el tiempo, alguien sabrá recoger y multiplicar sus frutos.
 
-> *"Un mago nunca llega tarde, ni pronto, llega exactamente cuando se lo propone."* — **Gandalf el Gris**
+> *"El principal objetivo de la ciencia no consiste en abrir una puerta a la sabiduría infinita, sino en poner unos límites al error infinito"* — **Bertolt Brecht**
 
 ---
 
